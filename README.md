@@ -135,7 +135,7 @@ mrpl-sales-delivery-intelligence/
 
 ## 👤 About This Project
 
-Built as a portfolio project to demonstrate end-to-end data analyst skills — from data generation and SQL querying to Python EDA and Power BI dashboarding — tailored specifically to a real regional manufacturing business, for application to Data Analyst roles including at MRPL, Katni.
+Built as a portfolio project to demonstrate end-to-end data analyst skills — from data generation and SQL querying to Python EDA and Power BI dashboarding — tailored specifically to a real regional manufacturing business.
 
 **Author:** Animesh Yadav
 **Contact:** animeshyadav310@gmail.com | https://www.linkedin.com/in/animesh-yadav-/
