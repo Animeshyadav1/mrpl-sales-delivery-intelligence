@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Delivery_Date,Industry,Client_Name,Region,Salesperson,Product_Name,Product_Type,Quantity_MT,Unit_Price_INR,Unit_Cost_INR,Total_Revenue_INR,Total_Cost_INR,Gross_Profit_INR,Gross_Margin_Pct,Promised_Days,Actual_Days,Delay_Days,On_Time_Delivery,Quarter,Month
+MRPL-1000,15-04-2023,14-05-2023,Non-Ferrous,Hindalco,Pune,Amit Sharma,Insulation Brick,Shaped,178,1900,1200,338200,213600,124600,36.84,16,29,13,No,Q2,Apr-23
+MRPL-1001,28-01-2023,06-03-2023,Cement,ACC,Chennai,Vikram Patel,High Alumina Brick,Shaped,148,4200,2800,621600,414400,207200,33.33,20,37,17,No,Q1,Jan-23
+MRPL-1002,07-01-2023,12-02-2023,Non-Ferrous,Sterlite,Bhopal,Amit Sharma,Gunning Mix,Unshaped,199,2600,1500,517400,298500,218900,42.31,19,36,17,No,Q1,Jan-23
+MRPL-1003,25-01-2024,12-03-2024,Cement,Ambuja Cement,Chennai,Rajesh Kumar,Gunning Mix,Unshaped,29,2600,1500,75400,43500,31900,42.31,25,47,22,No,Q1,Jan-24
+MRPL-1004,23-01-2024,07-03-2024,Cement,Shree Cement,Surat,Vikram Patel,Low Cement Castable,Unshaped,25,3800,2300,95000,57500,37500,39.47,23,44,21,No,Q1,Jan-24
+MRPL-1005,22-08-2023,29-09-2023,Non-Ferrous,BALCO,Chennai,Rajesh Kumar,Plastic Refractory,Unshaped,79,2900,1750,229100,138250,90850,39.66,16,38,22,No,Q3,Aug-23
+MRPL-1006,09-01-2024,09-02-2024,Iron & Steel,Jindal Steel,Pune,Sunita Rao,Magnesia Brick,Shaped,46,5500,3600,253000,165600,87400,34.55,25,31,6,No,Q1,Jan-24
+MRPL-1007,25-06-2023,05-08-2023,Iron & Steel,JSW Steel,Export-Africa,Vikram Patel,Refractory Coating,Unshaped,141,2100,1200,296100,169200,126900,42.86,21,41,20,No,Q2,Jun-23
+MRPL-1008,29-11-2023,10-01-2024,Cement,Dalmia Cement,Surat,Amit Sharma,Refractory Coating,Unshaped,26,2100,1200,54600,31200,23400,42.86,21,42,21,No,Q4,Nov-23
+MRPL-1009,03-08-2024,28-08-2024,Iron & Steel,JSW Steel,Pune,Amit Sharma,Mortar,Unshaped,188,1600,950,300800,178600,122200,40.62,24,25,1,No,Q3,Aug-24
+MRPL-1010,10-09-2023,20-10-2023,Non-Ferrous,Hindalco,Bhopal,Amit Sharma,Refractory Coating,Unshaped,195,2100,1200,409500,234000,175500,42.86,22,40,18,No,Q3,Sep-23
+MRPL-1011,04-04-2023,11-05-2023,Power,NPCIL,Chennai,Vikram Patel,Ramming Mass,Unshaped,198,2200,1300,435600,257400,178200,40.91,15,37,22,No,Q2,Apr-23
+MRPL-1012,26-01-2024,05-03-2024,Iron & Steel,RINL,Hyderabad,Rajesh Kumar,Insulation Brick,Shaped,157,1900,1200,298300,188400,109900,36.84,28,39,11,No,Q1,Jan-24
+MRPL-1013,03-07-2024,13-08-2024,Iron & Steel,JSW Steel,Surat,Sunita Rao,Insulation Brick,Shaped,197,1900,1200,374300,236400,137900,36.84,22,41,19,No,Q3,Jul-24
+MRPL-1014,27-09-2023,27-10-2023,Non-Ferrous,Hindalco,Hyderabad,Priya Singh,Silica Brick,Shaped,133,3100,2000,412300,266000,146300,35.48,19,30,11,No,Q3,Sep-23
+MRPL-1015,18-01-2024,20-02-2024,Ceramic,Orient Bell,Raipur,Rajesh Kumar,Refractory Coating,Unshaped,200,2100,1200,420000,240000,180000,42.86,19,33,14,No,Q1,Jan-24
+MRPL-1016,07-01-2024,28-01-2024,Fertilizer,Coromandel,Ahmedabad,Rajesh Kumar,Chrome Magnesia Brick,Shaped,83,6200,4100,514600,340300,174300,33.87,21,21,0,Yes,Q1,Jan-24
+MRPL-1017,29-06-2024,02-08-2024,Iron & Steel,Jindal Steel,Surat,Neha Gupta,High Alumina Brick,Shaped,37,4200,2800,155400,103600,51800,33.33,18,34,16,No,Q2,Jun-24
+MRPL-1018,05-08-2023,13-09-2023,Power,CESC,Raipur,Priya Singh,Silica Brick,Shaped,143,3100,2000,443300,286000,157300,35.48,20,39,19,No,Q3,Aug-23
+MRPL-1019,11-09-2023,28-10-2023,Iron & Steel,RINL,Export-Africa,Priya Singh,Mortar,Unshaped,62,1600,950,99200,58900,40300,40.62,16,47,31,No,Q3,Sep-23
+MRPL-1020,08-10-2024,29-10-2024,Iron & Steel,JSW Steel,Chennai,Rajesh Kumar,Chrome Magnesia Brick,Shaped,27,6200,4100,167400,110700,56700,33.87,21,21,0,Yes,Q4,Oct-24
+MRPL-1021,12-05-2024,19-06-2024,Ceramic,Somany Ceramics,Raipur,Amit Sharma,Low Cement Castable,Unshaped,59,3800,2300,224200,135700,88500,39.47,18,38,20,No,Q2,May-24
+MRPL-1022,14-07-2023,16-08-2023,Ceramic,H&R Johnson,Vizag,Deepak Joshi,Gunning Mix,Unshaped,29,2600,1500,75400,43500,31900,42.31,17,33,16,No,Q3,Jul-23
+MRPL-1023,23-10-2024,14-11-2024,Cement,UltraTech Cement,Bhopal,Sunita Rao,Mortar,Unshaped,41,1600,950,65600,38950,26650,40.62,15,22,7,No,Q4,Oct-24
+MRPL-1024,24-05-2023,15-06-2023,Non-Ferrous,Hindalco,Chennai,Vikram Patel,Fireclay Brick,Shaped,113,2800,1800,316400,203400,113000,35.71,19,22,3,No,Q2,May-23
+MRPL-1025,29-10-2024,12-11-2024,Cement,Dalmia Cement,Vizag,Rajesh Kumar,Magnesia Brick,Shaped,197,5500,3600,1083500,709200,374300,34.55,14,14,0,Yes,Q4,Oct-24
+MRPL-1026,15-02-2024,12-03-2024,Ceramic,H&R Johnson,Hyderabad,Priya Singh,Fireclay Brick,Shaped,20,2800,1800,56000,36000,20000,35.71,19,26,7,No,Q1,Feb-24
+MRPL-1027,14-12-2024,31-01-2025,Iron & Steel,Jindal Steel,Export-Africa,Amit Sharma,Ramming Mass,Unshaped,264,2200,1300,580800,343200,237600,40.91,29,48,19,No,Q4,Dec-24
+MRPL-1028,18-11-2023,18-12-2023,Iron & Steel,RINL,Jamshedpur,Rajesh Kumar,High Alumina Brick,Shaped,26,4200,2800,109200,72800,36400,33.33,15,30,15,No,Q4,Nov-23
+MRPL-1029,12-03-2023,15-04-2023,Power,NTPC,Raipur,Neha Gupta,High Alumina Brick,Shaped,157,4200,2800,659400,439600,219800,33.33,16,34,18,No,Q1,Mar-23
+MRPL-1030,31-08-2024,22-10-2024,Petrochemical,Reliance,Export-Africa,Amit Sharma,Low Cement Castable,Unshaped,15,3800,2300,57000,34500,22500,39.47,16,52,36,No,Q3,Aug-24
+MRPL-1031,10-02-2024,13-03-2024,Non-Ferrous,Vedanta,Chennai,Amit Sharma,Ramming Mass,Unshaped,38,2200,1300,83600,49400,34200,40.91,23,32,9,No,Q1,Feb-24
+MRPL-1032,13-04-2023,14-05-2023,Iron & Steel,RINL,Bhopal,Sanjay Tiwari,High Alumina Brick,Shaped,23,4200,2800,96600,64400,32200,33.33,20,31,11,No,Q2,Apr-23
+MRPL-1033,11-06-2023,16-08-2023,Iron & Steel,Tata Steel,Export-Africa,Amit Sharma,Low Cement Castable,Unshaped,117,3800,2300,444600,269100,175500,39.47,23,66,43,No,Q2,Jun-23
+MRPL-1034,20-04-2023,11-05-2023,Iron & Steel,Tata Steel,Delhi,Amit Sharma,Refractory Coating,Unshaped,195,2100,1200,409500,234000,175500,42.86,18,21,3,No,Q2,Apr-23
+MRPL-1035,28-09-2023,30-10-2023,Iron & Steel,Tata Steel,Ahmedabad,Sunita Rao,Insulation Brick,Shaped,134,1900,1200,254600,160800,93800,36.84,29,32,3,No,Q3,Sep-23
+MRPL-1036,15-02-2023,30-03-2023,Ceramic,H&R Johnson,Nagpur,Neha Gupta,High Alumina Brick,Shaped,5,4200,2800,21000,14000,7000,33.33,24,43,19,No,Q1,Feb-23
+MRPL-1037,13-03-2024,27-03-2024,Iron & Steel,Jindal Steel,Surat,Vikram Patel,Gunning Mix,Unshaped,148,2600,1500,384800,222000,162800,42.31,14,14,0,Yes,Q1,Mar-24
+MRPL-1038,01-06-2023,19-06-2023,Iron & Steel,SAIL,Mumbai,Vikram Patel,Chrome Magnesia Brick,Shaped,115,6200,4100,713000,471500,241500,33.87,18,18,0,Yes,Q2,Jun-23
+MRPL-1039,29-12-2023,08-02-2024,Iron & Steel,Tata Steel,Chennai,Sunita Rao,Silica Brick,Shaped,204,3100,2000,632400,408000,224400,35.48,27,41,14,No,Q4,Dec-23
+MRPL-1040,26-01-2023,11-03-2023,Glass,Saint Gobain,Vizag,Neha Gupta,Fireclay Brick,Shaped,50,2800,1800,140000,90000,50000,35.71,24,44,20,No,Q1,Jan-23
+MRPL-1041,09-02-2023,03-03-2023,Ceramic,Kajaria Ceramics,Kolkata,Priya Singh,Silica Brick,Shaped,125,3100,2000,387500,250000,137500,35.48,21,22,1,No,Q1,Feb-23
+MRPL-1042,06-11-2024,07-12-2024,Petrochemical,BPCL,Pune,Amit Sharma,Ramming Mass,Unshaped,74,2200,1300,162800,96200,66600,40.91,26,31,5,No,Q4,Nov-24
+MRPL-1043,03-07-2024,17-07-2024,Iron & Steel,RINL,Ahmedabad,Priya Singh,Silica Brick,Shaped,89,3100,2000,275900,178000,97900,35.48,14,14,0,Yes,Q3,Jul-24
+MRPL-1044,02-09-2024,17-10-2024,Petrochemical,IOC,Jamshedpur,Rajesh Kumar,Gunning Mix,Unshaped,116,2600,1500,301600,174000,127600,42.31,25,45,20,No,Q3,Sep-24
+MRPL-1045,13-08-2024,04-09-2024,Glass,HNG Glass,Raipur,Priya Singh,Plastic Refractory,Unshaped,53,2900,1750,153700,92750,60950,39.66,22,22,0,Yes,Q3,Aug-24
+MRPL-1046,17-11-2024,18-01-2025,Non-Ferrous,Sterlite,Export-Africa,Sunita Rao,Chrome Magnesia Brick,Shaped,75,6200,4100,465000,307500,157500,33.87,25,62,37,No,Q4,Nov-24
+MRPL-1047,04-11-2023,13-12-2023,Iron & Steel,JSW Steel,Ahmedabad,Deepak Joshi,Plastic Refractory,Unshaped,184,2900,1750,533600,322000,211600,39.66,23,39,16,No,Q4,Nov-23
+MRPL-1048,06-03-2024,17-04-2024,Cement,Dalmia Cement,Pune,Rajesh Kumar,Refractory Coating,Unshaped,175,2100,1200,367500,210000,157500,42.86,26,42,16,No,Q1,Mar-24
+MRPL-1049,01-01-2023,27-01-2023,Glass,Borosil,Jamshedpur,Priya Singh,Chrome Magnesia Brick,Shaped,82,6200,4100,508400,336200,172200,33.87,23,26,3,No,Q1,Jan-23
+MRPL-1050,07-06-2024,12-07-2024,Cement,Shree Cement,Bhopal,Sunita Rao,Mortar,Unshaped,126,1600,950,201600,119700,81900,40.62,19,35,16,No,Q2,Jun-24
+MRPL-1051,19-08-2023,06-09-2023,Iron & Steel,Tata Steel,Ranchi,Sunita Rao,Low Cement Castable,Unshaped,55,3800,2300,209000,126500,82500,39.47,18,18,0,Yes,Q3,Aug-23
+MRPL-1052,06-10-2024,14-11-2024,Iron & Steel,JSW Steel,Ranchi,Priya Singh,Plastic Refractory,Unshaped,209,2900,1750,606100,365750,240350,39.66,20,39,19,No,Q4,Oct-24
+MRPL-1053,06-01-2023,11-02-2023,Non-Ferrous,Hindalco,Chennai,Sunita Rao,Mortar,Unshaped,197,1600,950,315200,187150,128050,40.62,17,36,19,No,Q1,Jan-23
+MRPL-1054,13-09-2023,12-10-2023,Cement,Shree Cement,Raipur,Rajesh Kumar,Insulation Brick,Shaped,36,1900,1200,68400,43200,25200,36.84,28,29,1,No,Q3,Sep-23
+MRPL-1055,15-07-2024,23-08-2024,Glass,Piramal Glass,Jamshedpur,Priya Singh,Mortar,Unshaped,119,1600,950,190400,113050,77350,40.62,19,39,20,No,Q3,Jul-24
+MRPL-1056,11-10-2023,24-11-2023,Petrochemical,BPCL,Vizag,Neha Gupta,Ramming Mass,Unshaped,190,2200,1300,418000,247000,171000,40.91,29,44,15,No,Q4,Oct-23
+MRPL-1057,10-12-2023,26-12-2023,Iron & Steel,SAIL,Surat,Amit Sharma,Low Cement Castable,Unshaped,118,3800,2300,448400,271400,177000,39.47,16,16,0,Yes,Q4,Dec-23
+MRPL-1058,22-02-2024,29-03-2024,Iron & Steel,Tata Steel,Kolkata,Rajesh Kumar,Refractory Coating,Unshaped,89,2100,1200,186900,106800,80100,42.86,28,36,8,No,Q1,Feb-24
+MRPL-1059,21-01-2023,28-03-2023,Iron & Steel,RINL,Export-Africa,Sanjay Tiwari,Mortar,Unshaped,200,1600,950,320000,190000,130000,40.62,26,66,40,No,Q1,Jan-23
+MRPL-1060,05-03-2024,05-04-2024,Iron & Steel,Jindal Steel,Vizag,Neha Gupta,Ramming Mass,Unshaped,142,2200,1300,312400,184600,127800,40.91,21,31,10,No,Q1,Mar-24
+MRPL-1061,26-11-2024,05-01-2025,Iron & Steel,Jindal Steel,Mumbai,Amit Sharma,Mortar,Unshaped,149,1600,950,238400,141550,96850,40.62,19,40,21,No,Q4,Nov-24
+MRPL-1062,29-08-2024,12-09-2024,Cement,UltraTech Cement,Raipur,Neha Gupta,Chrome Magnesia Brick,Shaped,149,6200,4100,923800,610900,312900,33.87,14,14,0,Yes,Q3,Aug-24
+MRPL-1063,02-12-2023,04-01-2024,Non-Ferrous,BALCO,Kolkata,Amit Sharma,Magnesia Brick,Shaped,81,5500,3600,445500,291600,153900,34.55,28,33,5,No,Q4,Dec-23
+MRPL-1064,25-03-2023,26-04-2023,Cement,Shree Cement,Vizag,Amit Sharma,Ramming Mass,Unshaped,125,2200,1300,275000,162500,112500,40.91,14,32,18,No,Q1,Mar-23
+MRPL-1065,29-10-2024,07-12-2024,Power,NTPC,Nagpur,Deepak Joshi,Gunning Mix,Unshaped,20,2600,1500,52000,30000,22000,42.31,14,39,25,No,Q4,Oct-24
+MRPL-1066,16-11-2024,15-12-2024,Iron & Steel,Tata Steel,Kolkata,Rajesh Kumar,Chrome Magnesia Brick,Shaped,46,6200,4100,285200,188600,96600,33.87,20,29,9,No,Q4,Nov-24
+MRPL-1067,28-04-2023,21-05-2023,Non-Ferrous,Sterlite,Jamshedpur,Sanjay Tiwari,Gunning Mix,Unshaped,46,2600,1500,119600,69000,50600,42.31,23,23,0,Yes,Q2,Apr-23
+MRPL-1068,23-07-2023,13-08-2023,Power,Tata Power,Nagpur,Priya Singh,Plastic Refractory,Unshaped,24,2900,1750,69600,42000,27600,39.66,21,21,0,Yes,Q3,Jul-23
+MRPL-1069,02-08-2024,10-09-2024,Non-Ferrous,BALCO,Jamshedpur,Deepak Joshi,Refractory Coating,Unshaped,15,2100,1200,31500,18000,13500,42.86,25,39,14,No,Q3,Aug-24
+MRPL-1070,06-03-2024,02-04-2024,Cement,Ambuja Cement,Raipur,Rajesh Kumar,Low Cement Castable,Unshaped,130,3800,2300,494000,299000,195000,39.47,17,27,10,No,Q1,Mar-24
+MRPL-1071,18-06-2024,24-07-2024,Fertilizer,Coromandel,Kolkata,Rajesh Kumar,Refractory Coating,Unshaped,171,2100,1200,359100,205200,153900,42.86,22,36,14,No,Q2,Jun-24
+MRPL-1072,09-09-2023,24-10-2023,Glass,Piramal Glass,Hyderabad,Amit Sharma,Mortar,Unshaped,27,1600,950,43200,25650,17550,40.62,22,45,23,No,Q3,Sep-23
+MRPL-1073,21-05-2024,21-06-2024,Cement,Shree Cement,Jamshedpur,Amit Sharma,Plastic Refractory,Unshaped,88,2900,1750,255200,154000,101200,39.66,19,31,12,No,Q2,May-24
+MRPL-1074,10-10-2023,04-11-2023,Iron & Steel,RINL,Pune,Sunita Rao,Ramming Mass,Unshaped,202,2200,1300,444400,262600,181800,40.91,14,25,11,No,Q4,Oct-23
+MRPL-1075,04-09-2023,18-10-2023,Ceramic,H&R Johnson,Surat,Priya Singh,Fireclay Brick,Shaped,181,2800,1800,506800,325800,181000,35.71,29,44,15,No,Q3,Sep-23
+MRPL-1076,09-12-2024,17-01-2025,Non-Ferrous,Vedanta,Delhi,Amit Sharma,Low Cement Castable,Unshaped,92,3800,2300,349600,211600,138000,39.47,23,39,16,No,Q4,Dec-24
+MRPL-1077,17-07-2024,30-08-2024,Power,Adani Power,Raipur,Priya Singh,Plastic Refractory,Unshaped,89,2900,1750,258100,155750,102350,39.66,25,44,19,No,Q3,Jul-24
+MRPL-1078,20-11-2023,10-12-2023,Cement,UltraTech Cement,Chennai,Deepak Joshi,Ramming Mass,Unshaped,48,2200,1300,105600,62400,43200,40.91,19,20,1,No,Q4,Nov-23
+MRPL-1079,21-06-2024,14-07-2024,Iron & Steel,RINL,Surat,Sanjay Tiwari,Ramming Mass,Unshaped,157,2200,1300,345400,204100,141300,40.91,23,23,0,Yes,Q2,Jun-24
+MRPL-1080,26-12-2024,16-01-2025,Petrochemical,BPCL,Ahmedabad,Amit Sharma,Gunning Mix,Unshaped,194,2600,1500,504400,291000,213400,42.31,18,21,3,No,Q4,Dec-24
+MRPL-1081,17-05-2024,13-06-2024,Iron & Steel,Tata Steel,Pune,Sunita Rao,Chrome Magnesia Brick,Shaped,31,6200,4100,192200,127100,65100,33.87,14,27,13,No,Q2,May-24
+MRPL-1082,16-09-2023,24-10-2023,Iron & Steel,Tata Steel,Ahmedabad,Sanjay Tiwari,Mortar,Unshaped,127,1600,950,203200,120650,82550,40.62,17,38,21,No,Q3,Sep-23
+MRPL-1083,30-07-2024,19-08-2024,Iron & Steel,JSW Steel,Jamshedpur,Rajesh Kumar,Low Cement Castable,Unshaped,82,3800,2300,311600,188600,123000,39.47,16,20,4,No,Q3,Jul-24
+MRPL-1084,19-06-2024,28-07-2024,Iron & Steel,RINL,Jamshedpur,Amit Sharma,Plastic Refractory,Unshaped,102,2900,1750,295800,178500,117300,39.66,28,39,11,No,Q2,Jun-24
+MRPL-1085,12-04-2023,19-05-2023,Iron & Steel,RINL,Jamshedpur,Rajesh Kumar,Ramming Mass,Unshaped,200,2200,1300,440000,260000,180000,40.91,20,37,17,No,Q2,Apr-23
+MRPL-1086,10-06-2023,16-07-2023,Iron & Steel,Tata Steel,Chennai,Vikram Patel,Fireclay Brick,Shaped,5,2800,1800,14000,9000,5000,35.71,27,36,9,No,Q2,Jun-23
+MRPL-1087,17-10-2023,14-11-2023,Non-Ferrous,Hindalco,Mumbai,Amit Sharma,Ramming Mass,Unshaped,253,2200,1300,556600,328900,227700,40.91,28,28,0,Yes,Q4,Oct-23
+MRPL-1088,11-07-2024,03-08-2024,Non-Ferrous,Hindalco,Jamshedpur,Priya Singh,Refractory Coating,Unshaped,62,2100,1200,130200,74400,55800,42.86,18,23,5,No,Q3,Jul-24
+MRPL-1089,05-08-2024,02-09-2024,Petrochemical,IOC,Kolkata,Vikram Patel,High Alumina Brick,Shaped,78,4200,2800,327600,218400,109200,33.33,28,28,0,Yes,Q3,Aug-24
+MRPL-1090,20-05-2024,19-06-2024,Cement,Ambuja Cement,Hyderabad,Vikram Patel,Refractory Coating,Unshaped,117,2100,1200,245700,140400,105300,42.86,16,30,14,No,Q2,May-24
+MRPL-1091,04-04-2023,07-05-2023,Iron & Steel,RINL,Ahmedabad,Amit Sharma,Refractory Coating,Unshaped,63,2100,1200,132300,75600,56700,42.86,14,33,19,No,Q2,Apr-23
+MRPL-1092,29-10-2024,20-11-2024,Non-Ferrous,Hindalco,Mumbai,Priya Singh,Plastic Refractory,Unshaped,162,2900,1750,469800,283500,186300,39.66,22,22,0,Yes,Q4,Oct-24
+MRPL-1093,26-04-2024,30-05-2024,Fertilizer,Coromandel,Ranchi,Sanjay Tiwari,Refractory Coating,Unshaped,94,2100,1200,197400,112800,84600,42.86,27,34,7,No,Q2,Apr-24
+MRPL-1094,23-10-2023,09-12-2023,Cement,Shree Cement,Ahmedabad,Sunita Rao,Fireclay Brick,Shaped,240,2800,1800,672000,432000,240000,35.71,26,47,21,No,Q4,Oct-23
+MRPL-1095,29-04-2023,19-06-2023,Glass,Borosil,Delhi,Amit Sharma,Magnesia Brick,Shaped,108,5500,3600,594000,388800,205200,34.55,30,51,21,No,Q2,Apr-23
+MRPL-1096,29-09-2024,12-11-2024,Fertilizer,IFFCO,Mumbai,Vikram Patel,Mortar,Unshaped,198,1600,950,316800,188100,128700,40.62,29,44,15,No,Q3,Sep-24
+MRPL-1097,22-10-2023,20-11-2023,Cement,Dalmia Cement,Pune,Rajesh Kumar,Fireclay Brick,Shaped,161,2800,1800,450800,289800,161000,35.71,29,29,0,Yes,Q4,Oct-23
+MRPL-1098,19-07-2024,06-08-2024,Iron & Steel,SAIL,Kolkata,Vikram Patel,Insulation Brick,Shaped,109,1900,1200,207100,130800,76300,36.84,16,18,2,No,Q3,Jul-24
+MRPL-1099,26-10-2023,25-11-2023,Fertilizer,IFFCO,Delhi,Priya Singh,Magnesia Brick,Shaped,186,5500,3600,1023000,669600,353400,34.55,22,30,8,No,Q4,Oct-23
+MRPL-1100,15-07-2023,01-09-2023,Petrochemical,Reliance,Bhopal,Rajesh Kumar,Gunning Mix,Unshaped,158,2600,1500,410800,237000,173800,42.31,30,48,18,No,Q3,Jul-23
+MRPL-1101,03-06-2024,21-06-2024,Petrochemical,ONGC,Vizag,Amit Sharma,Silica Brick,Shaped,73,3100,2000,226300,146000,80300,35.48,14,18,4,No,Q2,Jun-24
+MRPL-1102,07-12-2023,11-01-2024,Non-Ferrous,Sterlite,Bhopal,Priya Singh,Gunning Mix,Unshaped,201,2600,1500,522600,301500,221100,42.31,26,35,9,No,Q4,Dec-23
+MRPL-1103,25-02-2024,07-04-2024,Ceramic,Orient Bell,Chennai,Priya Singh,Insulation Brick,Shaped,16,1900,1200,30400,19200,11200,36.84,24,42,18,No,Q1,Feb-24
+MRPL-1104,07-02-2023,03-04-2023,Power,NPCIL,Nagpur,Priya Singh,Mortar,Unshaped,37,1600,950,59200,35150,24050,40.62,30,55,25,No,Q1,Feb-23
+MRPL-1105,16-01-2023,11-02-2023,Power,CESC,Delhi,Sanjay Tiwari,Magnesia Brick,Shaped,189,5500,3600,1039500,680400,359100,34.55,18,26,8,No,Q1,Jan-23
+MRPL-1106,10-12-2024,17-01-2025,Petrochemical,IOC,Bhopal,Amit Sharma,High Alumina Brick,Shaped,146,4200,2800,613200,408800,204400,33.33,16,38,22,No,Q4,Dec-24
+MRPL-1107,06-02-2023,24-02-2023,Cement,Shree Cement,Nagpur,Neha Gupta,Ramming Mass,Unshaped,163,2200,1300,358600,211900,146700,40.91,16,18,2,No,Q1,Feb-23
+MRPL-1108,11-04-2023,07-05-2023,Non-Ferrous,BALCO,Surat,Priya Singh,Gunning Mix,Unshaped,199,2600,1500,517400,298500,218900,42.31,17,26,9,No,Q2,Apr-23
+MRPL-1109,28-10-2023,30-11-2023,Iron & Steel,SAIL,Mumbai,Deepak Joshi,Low Cement Castable,Unshaped,132,3800,2300,501600,303600,198000,39.47,25,33,8,No,Q4,Oct-23
+MRPL-1110,22-03-2023,01-05-2023,Iron & Steel,Tata Steel,Nagpur,Rajesh Kumar,Plastic Refractory,Unshaped,161,2900,1750,466900,281750,185150,39.66,26,40,14,No,Q1,Mar-23
+MRPL-1111,18-09-2023,26-10-2023,Non-Ferrous,Hindalco,Kolkata,Priya Singh,Plastic Refractory,Unshaped,122,2900,1750,353800,213500,140300,39.66,22,38,16,No,Q3,Sep-23
+MRPL-1112,28-03-2024,05-05-2024,Iron & Steel,RINL,Nagpur,Rajesh Kumar,Ramming Mass,Unshaped,93,2200,1300,204600,120900,83700,40.91,23,38,15,No,Q1,Mar-24
+MRPL-1113,29-01-2024,19-02-2024,Fertilizer,Chambal Fertilizers,Ranchi,Rajesh Kumar,Mortar,Unshaped,128,1600,950,204800,121600,83200,40.62,17,21,4,No,Q1,Jan-24
+MRPL-1114,05-11-2024,27-11-2024,Cement,Ambuja Cement,Pune,Rajesh Kumar,Plastic Refractory,Unshaped,146,2900,1750,423400,255500,167900,39.66,22,22,0,Yes,Q4,Nov-24
+MRPL-1115,21-10-2023,17-11-2023,Power,Tata Power,Surat,Neha Gupta,Chrome Magnesia Brick,Shaped,86,6200,4100,533200,352600,180600,33.87,25,27,2,No,Q4,Oct-23
+MRPL-1116,04-10-2024,23-10-2024,Non-Ferrous,Hindalco,Vizag,Sunita Rao,Refractory Coating,Unshaped,234,2100,1200,491400,280800,210600,42.86,15,19,4,No,Q4,Oct-24
+MRPL-1117,30-10-2023,26-11-2023,Glass,Saint Gobain,Ahmedabad,Rajesh Kumar,Chrome Magnesia Brick,Shaped,121,6200,4100,750200,496100,254100,33.87,27,27,0,Yes,Q4,Oct-23
+MRPL-1118,21-09-2023,03-11-2023,Iron & Steel,SAIL,Raipur,Neha Gupta,Plastic Refractory,Unshaped,128,2900,1750,371200,224000,147200,39.66,23,43,20,No,Q3,Sep-23
+MRPL-1119,20-08-2023,10-10-2023,Petrochemical,BPCL,Delhi,Deepak Joshi,Magnesia Brick,Shaped,178,5500,3600,979000,640800,338200,34.55,26,51,25,No,Q3,Aug-23
+MRPL-1120,03-07-2024,06-08-2024,Petrochemical,ONGC,Vizag,Rajesh Kumar,Low Cement Castable,Unshaped,36,3800,2300,136800,82800,54000,39.47,28,34,6,No,Q3,Jul-24
+MRPL-1121,28-08-2023,25-09-2023,Non-Ferrous,Vedanta,Hyderabad,Rajesh Kumar,Plastic Refractory,Unshaped,125,2900,1750,362500,218750,143750,39.66,14,28,14,No,Q3,Aug-23
+MRPL-1122,20-04-2024,28-05-2024,Petrochemical,HPCL,Chennai,Sunita Rao,Plastic Refractory,Unshaped,184,2900,1750,533600,322000,211600,39.66,23,38,15,No,Q2,Apr-24
+MRPL-1123,29-04-2023,12-06-2023,Cement,Ambuja Cement,Mumbai,Sanjay Tiwari,High Alumina Brick,Shaped,29,4200,2800,121800,81200,40600,33.33,21,44,23,No,Q2,Apr-23
+MRPL-1124,08-06-2023,16-07-2023,Power,CESC,Ahmedabad,Priya Singh,Mortar,Unshaped,111,1600,950,177600,105450,72150,40.62,17,38,21,No,Q2,Jun-23
+MRPL-1125,31-03-2024,25-04-2024,Power,Adani Power,Mumbai,Amit Sharma,Ramming Mass,Unshaped,65,2200,1300,143000,84500,58500,40.91,25,25,0,Yes,Q1,Mar-24
+MRPL-1126,10-10-2023,05-12-2023,Fertilizer,Chambal Fertilizers,Export-Africa,Rajesh Kumar,Plastic Refractory,Unshaped,73,2900,1750,211700,127750,83950,39.66,17,56,39,No,Q4,Oct-23
+MRPL-1127,21-02-2023,14-03-2023,Iron & Steel,RINL,Nagpur,Sanjay Tiwari,Insulation Brick,Shaped,90,1900,1200,171000,108000,63000,36.84,21,21,0,Yes,Q1,Feb-23
+MRPL-1128,10-08-2023,04-09-2023,Glass,Piramal Glass,Ranchi,Amit Sharma,High Alumina Brick,Shaped,64,4200,2800,268800,179200,89600,33.33,24,25,1,No,Q3,Aug-23
+MRPL-1129,07-07-2024,26-07-2024,Glass,Saint Gobain,Ranchi,Sanjay Tiwari,Silica Brick,Shaped,69,3100,2000,213900,138000,75900,35.48,19,19,0,Yes,Q3,Jul-24
+MRPL-1130,01-09-2023,25-09-2023,Non-Ferrous,Vedanta,Mumbai,Deepak Joshi,Fireclay Brick,Shaped,155,2800,1800,434000,279000,155000,35.71,24,24,0,Yes,Q3,Sep-23
+MRPL-1131,07-03-2023,23-04-2023,Iron & Steel,Jindal Steel,Surat,Vikram Patel,Fireclay Brick,Shaped,126,2800,1800,352800,226800,126000,35.71,28,47,19,No,Q1,Mar-23
+MRPL-1132,14-02-2023,22-03-2023,Cement,ACC,Raipur,Sanjay Tiwari,Magnesia Brick,Shaped,191,5500,3600,1050500,687600,362900,34.55,30,36,6,No,Q1,Feb-23
+MRPL-1133,21-04-2023,19-05-2023,Cement,Shree Cement,Bhopal,Priya Singh,High Alumina Brick,Shaped,130,4200,2800,546000,364000,182000,33.33,28,28,0,Yes,Q2,Apr-23
+MRPL-1134,01-10-2024,01-11-2024,Ceramic,Kajaria Ceramics,Kolkata,Rajesh Kumar,Plastic Refractory,Unshaped,230,2900,1750,667000,402500,264500,39.66,24,31,7,No,Q4,Oct-24
+MRPL-1135,19-12-2024,18-01-2025,Fertilizer,Deepak Fertilizers,Raipur,Priya Singh,Mortar,Unshaped,46,1600,950,73600,43700,29900,40.62,20,30,10,No,Q4,Dec-24
+MRPL-1136,08-04-2023,10-05-2023,Cement,Shree Cement,Ahmedabad,Priya Singh,Magnesia Brick,Shaped,85,5500,3600,467500,306000,161500,34.55,27,32,5,No,Q2,Apr-23
+MRPL-1137,29-03-2023,25-04-2023,Non-Ferrous,NALCO,Nagpur,Rajesh Kumar,Gunning Mix,Unshaped,28,2600,1500,72800,42000,30800,42.31,27,27,0,Yes,Q1,Mar-23
+MRPL-1138,29-07-2024,09-09-2024,Glass,HNG Glass,Raipur,Vikram Patel,Gunning Mix,Unshaped,148,2600,1500,384800,222000,162800,42.31,24,42,18,No,Q3,Jul-24
+MRPL-1139,22-02-2023,23-03-2023,Iron & Steel,Jindal Steel,Vizag,Neha Gupta,Refractory Coating,Unshaped,78,2100,1200,163800,93600,70200,42.86,23,29,6,No,Q1,Feb-23
+MRPL-1140,21-04-2023,16-05-2023,Iron & Steel,Jindal Steel,Nagpur,Amit Sharma,Fireclay Brick,Shaped,94,2800,1800,263200,169200,94000,35.71,25,25,0,Yes,Q2,Apr-23
+MRPL-1141,28-09-2024,28-10-2024,Glass,Piramal Glass,Ranchi,Sanjay Tiwari,Magnesia Brick,Shaped,162,5500,3600,891000,583200,307800,34.55,14,30,16,No,Q3,Sep-24
+MRPL-1142,13-11-2023,08-12-2023,Ceramic,RAK Ceramics,Kolkata,Sunita Rao,Low Cement Castable,Unshaped,125,3800,2300,475000,287500,187500,39.47,25,25,0,Yes,Q4,Nov-23
+MRPL-1143,10-10-2024,13-11-2024,Iron & Steel,Jindal Steel,Nagpur,Rajesh Kumar,Chrome Magnesia Brick,Shaped,16,6200,4100,99200,65600,33600,33.87,16,34,18,No,Q4,Oct-24
+MRPL-1144,16-11-2023,29-12-2023,Power,Adani Power,Bhopal,Rajesh Kumar,Mortar,Unshaped,260,1600,950,416000,247000,169000,40.62,24,43,19,No,Q4,Nov-23
+MRPL-1145,20-02-2023,11-03-2023,Ceramic,Somany Ceramics,Kolkata,Deepak Joshi,High Alumina Brick,Shaped,177,4200,2800,743400,495600,247800,33.33,16,19,3,No,Q1,Feb-23
+MRPL-1146,09-08-2023,08-09-2023,Cement,Shree Cement,Jamshedpur,Priya Singh,Mortar,Unshaped,198,1600,950,316800,188100,128700,40.62,30,30,0,Yes,Q3,Aug-23
+MRPL-1147,14-11-2024,01-12-2024,Cement,Dalmia Cement,Nagpur,Priya Singh,Silica Brick,Shaped,114,3100,2000,353400,228000,125400,35.48,15,17,2,No,Q4,Nov-24
+MRPL-1148,21-05-2023,16-06-2023,Cement,Ambuja Cement,Chennai,Sanjay Tiwari,High Alumina Brick,Shaped,200,4200,2800,840000,560000,280000,33.33,22,26,4,No,Q2,May-23
+MRPL-1149,25-01-2024,26-02-2024,Cement,Shree Cement,Surat,Rajesh Kumar,Magnesia Brick,Shaped,141,5500,3600,775500,507600,267900,34.55,21,32,11,No,Q1,Jan-24
+MRPL-1150,15-04-2024,22-05-2024,Power,NTPC,Hyderabad,Priya Singh,Low Cement Castable,Unshaped,24,3800,2300,91200,55200,36000,39.47,24,37,13,No,Q2,Apr-24
+MRPL-1151,19-02-2024,14-03-2024,Cement,Shree Cement,Nagpur,Amit Sharma,Refractory Coating,Unshaped,10,2100,1200,21000,12000,9000,42.86,24,24,0,Yes,Q1,Feb-24
+MRPL-1152,19-04-2023,20-06-2023,Glass,Borosil,Export-Africa,Rajesh Kumar,Refractory Coating,Unshaped,67,2100,1200,140700,80400,60300,42.86,27,62,35,No,Q2,Apr-23
+MRPL-1153,22-06-2023,06-08-2023,Power,Adani Power,Surat,Amit Sharma,Ramming Mass,Unshaped,24,2200,1300,52800,31200,21600,40.91,30,45,15,No,Q2,Jun-23
+MRPL-1154,30-05-2023,19-06-2023,Iron & Steel,Tata Steel,Ahmedabad,Amit Sharma,Silica Brick,Shaped,70,3100,2000,217000,140000,77000,35.48,20,20,0,Yes,Q2,May-23
+MRPL-1155,31-07-2024,13-09-2024,Power,Tata Power,Vizag,Priya Singh,Fireclay Brick,Shaped,199,2800,1800,557200,358200,199000,35.71,28,44,16,No,Q3,Jul-24
+MRPL-1156,25-04-2024,07-06-2024,Ceramic,Somany Ceramics,Ahmedabad,Priya Singh,Refractory Coating,Unshaped,118,2100,1200,247800,141600,106200,42.86,23,43,20,No,Q2,Apr-24
+MRPL-1157,07-04-2024,30-04-2024,Iron & Steel,JSW Steel,Raipur,Amit Sharma,Silica Brick,Shaped,14,3100,2000,43400,28000,15400,35.48,15,23,8,No,Q2,Apr-24
+MRPL-1158,03-06-2024,16-07-2024,Petrochemical,HPCL,Ranchi,Sunita Rao,Insulation Brick,Shaped,103,1900,1200,195700,123600,72100,36.84,28,43,15,No,Q2,Jun-24
+MRPL-1159,26-11-2023,05-02-2024,Power,CESC,Export-Africa,Sunita Rao,Magnesia Brick,Shaped,219,5500,3600,1204500,788400,416100,34.55,29,71,42,No,Q4,Nov-23
+MRPL-1160,28-03-2023,16-04-2023,Iron & Steel,SAIL,Delhi,Sanjay Tiwari,Magnesia Brick,Shaped,134,5500,3600,737000,482400,254600,34.55,19,19,0,Yes,Q1,Mar-23
+MRPL-1161,08-01-2024,09-02-2024,Iron & Steel,RINL,Raipur,Vikram Patel,Mortar,Unshaped,100,1600,950,160000,95000,65000,40.62,23,32,9,No,Q1,Jan-24
+MRPL-1162,24-10-2024,16-11-2024,Cement,UltraTech Cement,Jamshedpur,Deepak Joshi,Refractory Coating,Unshaped,124,2100,1200,260400,148800,111600,42.86,16,23,7,No,Q4,Oct-24
+MRPL-1163,08-12-2023,19-01-2024,Iron & Steel,RINL,Pune,Neha Gupta,Ramming Mass,Unshaped,34,2200,1300,74800,44200,30600,40.91,18,42,24,No,Q4,Dec-23
+MRPL-1164,21-01-2024,15-02-2024,Cement,UltraTech Cement,Jamshedpur,Amit Sharma,Gunning Mix,Unshaped,169,2600,1500,439400,253500,185900,42.31,24,25,1,No,Q1,Jan-24
+MRPL-1165,19-01-2023,11-02-2023,Non-Ferrous,NALCO,Nagpur,Vikram Patel,Insulation Brick,Shaped,97,1900,1200,184300,116400,67900,36.84,23,23,0,Yes,Q1,Jan-23
+MRPL-1166,08-06-2023,23-07-2023,Fertilizer,IFFCO,Chennai,Sanjay Tiwari,Mortar,Unshaped,24,1600,950,38400,22800,15600,40.62,23,45,22,No,Q2,Jun-23
+MRPL-1167,21-01-2024,09-02-2024,Glass,Piramal Glass,Ahmedabad,Rajesh Kumar,Insulation Brick,Shaped,44,1900,1200,83600,52800,30800,36.84,19,19,0,Yes,Q1,Jan-24
+MRPL-1168,23-11-2024,23-12-2024,Petrochemical,HPCL,Bhopal,Priya Singh,Insulation Brick,Shaped,260,1900,1200,494000,312000,182000,36.84,21,30,9,No,Q4,Nov-24
+MRPL-1169,25-04-2024,07-06-2024,Non-Ferrous,Hindalco,Raipur,Amit Sharma,Gunning Mix,Unshaped,54,2600,1500,140400,81000,59400,42.31,25,43,18,No,Q2,Apr-24
+MRPL-1170,29-05-2024,20-07-2024,Ceramic,RAK Ceramics,Vizag,Deepak Joshi,Mortar,Unshaped,140,1600,950,224000,133000,91000,40.62,27,52,25,No,Q2,May-24
+MRPL-1171,07-05-2024,10-06-2024,Iron & Steel,SAIL,Kolkata,Rajesh Kumar,Chrome Magnesia Brick,Shaped,100,6200,4100,620000,410000,210000,33.87,17,34,17,No,Q2,May-24
+MRPL-1172,09-06-2024,06-07-2024,Petrochemical,BPCL,Delhi,Amit Sharma,Silica Brick,Shaped,42,3100,2000,130200,84000,46200,35.48,27,27,0,Yes,Q2,Jun-24
+MRPL-1173,29-02-2024,07-05-2024,Ceramic,RAK Ceramics,Export-Africa,Sanjay Tiwari,Magnesia Brick,Shaped,18,5500,3600,99000,64800,34200,34.55,26,68,42,No,Q1,Feb-24
+MRPL-1174,12-04-2023,26-05-2023,Cement,ACC,Ahmedabad,Rajesh Kumar,Low Cement Castable,Unshaped,187,3800,2300,710600,430100,280500,39.47,24,44,20,No,Q2,Apr-23
+MRPL-1175,23-05-2023,29-07-2023,Iron & Steel,Jindal Steel,Export-Africa,Sunita Rao,Silica Brick,Shaped,199,3100,2000,616900,398000,218900,35.48,29,67,38,No,Q2,May-23
+MRPL-1176,15-07-2024,22-08-2024,Non-Ferrous,Hindalco,Pune,Neha Gupta,High Alumina Brick,Shaped,191,4200,2800,802200,534800,267400,33.33,30,38,8,No,Q3,Jul-24
+MRPL-1177,05-03-2024,02-04-2024,Iron & Steel,JSW Steel,Pune,Rajesh Kumar,Gunning Mix,Unshaped,168,2600,1500,436800,252000,184800,42.31,28,28,0,Yes,Q1,Mar-24
+MRPL-1178,11-08-2024,04-09-2024,Iron & Steel,JSW Steel,Raipur,Sunita Rao,Plastic Refractory,Unshaped,66,2900,1750,191400,115500,75900,39.66,18,24,6,No,Q3,Aug-24
+MRPL-1179,15-11-2024,23-12-2024,Cement,Shree Cement,Jamshedpur,Rajesh Kumar,Gunning Mix,Unshaped,35,2600,1500,91000,52500,38500,42.31,30,38,8,No,Q4,Nov-24
+MRPL-1180,01-02-2024,14-03-2024,Iron & Steel,Jindal Steel,Ranchi,Rajesh Kumar,Magnesia Brick,Shaped,100,5500,3600,550000,360000,190000,34.55,22,42,20,No,Q1,Feb-24
+MRPL-1181,07-12-2023,28-12-2023,Iron & Steel,JSW Steel,Chennai,Deepak Joshi,Silica Brick,Shaped,53,3100,2000,164300,106000,58300,35.48,15,21,6,No,Q4,Dec-23
+MRPL-1182,19-05-2023,16-06-2023,Power,Tata Power,Bhopal,Sunita Rao,Insulation Brick,Shaped,21,1900,1200,39900,25200,14700,36.84,28,28,0,Yes,Q2,May-23
+MRPL-1183,14-11-2023,23-01-2024,Iron & Steel,JSW Steel,Export-Africa,Amit Sharma,Fireclay Brick,Shaped,187,2800,1800,523600,336600,187000,35.71,26,70,44,No,Q4,Nov-23
+MRPL-1184,18-02-2023,17-03-2023,Power,Adani Power,Chennai,Amit Sharma,Insulation Brick,Shaped,172,1900,1200,326800,206400,120400,36.84,24,27,3,No,Q1,Feb-23
+MRPL-1185,31-01-2024,31-03-2024,Iron & Steel,Jindal Steel,Export-Africa,Deepak Joshi,Mortar,Unshaped,91,1600,950,145600,86450,59150,40.62,19,60,41,No,Q1,Jan-24
+MRPL-1186,22-03-2023,22-04-2023,Non-Ferrous,BALCO,Pune,Deepak Joshi,Plastic Refractory,Unshaped,115,2900,1750,333500,201250,132250,39.66,19,31,12,No,Q1,Mar-23
+MRPL-1187,09-09-2024,06-10-2024,Iron & Steel,SAIL,Ahmedabad,Amit Sharma,High Alumina Brick,Shaped,188,4200,2800,789600,526400,263200,33.33,27,27,0,Yes,Q3,Sep-24
+MRPL-1188,21-03-2024,05-04-2024,Non-Ferrous,Vedanta,Mumbai,Sunita Rao,Mortar,Unshaped,75,1600,950,120000,71250,48750,40.62,15,15,0,Yes,Q1,Mar-24
+MRPL-1189,27-05-2023,24-06-2023,Non-Ferrous,Hindalco,Raipur,Sanjay Tiwari,Ramming Mass,Unshaped,160,2200,1300,352000,208000,144000,40.91,28,28,0,Yes,Q2,May-23
+MRPL-1190,03-08-2024,06-09-2024,Iron & Steel,SAIL,Ahmedabad,Priya Singh,Insulation Brick,Shaped,13,1900,1200,24700,15600,9100,36.84,18,34,16,No,Q3,Aug-24
+MRPL-1191,26-06-2024,27-07-2024,Cement,UltraTech Cement,Bhopal,Vikram Patel,Ramming Mass,Unshaped,98,2200,1300,215600,127400,88200,40.91,26,31,5,No,Q2,Jun-24
+MRPL-1192,01-02-2024,21-02-2024,Non-Ferrous,Hindalco,Mumbai,Priya Singh,High Alumina Brick,Shaped,148,4200,2800,621600,414400,207200,33.33,17,20,3,No,Q1,Feb-24
+MRPL-1193,17-05-2024,04-06-2024,Glass,Borosil,Jamshedpur,Sunita Rao,Gunning Mix,Unshaped,56,2600,1500,145600,84000,61600,42.31,17,18,1,No,Q2,May-24
+MRPL-1194,29-11-2024,07-01-2025,Petrochemical,ONGC,Export-Africa,Sanjay Tiwari,Gunning Mix,Unshaped,118,2600,1500,306800,177000,129800,42.31,25,39,14,No,Q4,Nov-24
+MRPL-1195,18-12-2024,14-01-2025,Power,NPCIL,Ranchi,Deepak Joshi,Ramming Mass,Unshaped,231,2200,1300,508200,300300,207900,40.91,19,27,8,No,Q4,Dec-24
+MRPL-1196,20-05-2024,26-06-2024,Power,NPCIL,Vizag,Amit Sharma,Fireclay Brick,Shaped,11,2800,1800,30800,19800,11000,35.71,25,37,12,No,Q2,May-24
+MRPL-1197,09-03-2023,21-04-2023,Power,CESC,Kolkata,Neha Gupta,Plastic Refractory,Unshaped,84,2900,1750,243600,147000,96600,39.66,26,43,17,No,Q1,Mar-23
+MRPL-1198,21-11-2023,18-12-2023,Non-Ferrous,Sterlite,Ranchi,Rajesh Kumar,Mortar,Unshaped,233,1600,950,372800,221350,151450,40.62,16,27,11,No,Q4,Nov-23
+MRPL-1199,06-07-2023,13-09-2023,Cement,Dalmia Cement,Export-Africa,Sunita Rao,Gunning Mix,Unshaped,38,2600,1500,98800,57000,41800,42.31,27,69,42,No,Q3,Jul-23
+MRPL-1200,15-06-2023,14-07-2023,Ceramic,Somany Ceramics,Raipur,Amit Sharma,High Alumina Brick,Shaped,87,4200,2800,365400,243600,121800,33.33,21,29,8,No,Q2,Jun-23
+MRPL-1201,18-07-2024,20-08-2024,Ceramic,Somany Ceramics,Pune,Sunita Rao,Low Cement Castable,Unshaped,75,3800,2300,285000,172500,112500,39.47,18,33,15,No,Q3,Jul-24
+MRPL-1202,17-08-2024,21-09-2024,Iron & Steel,Tata Steel,Nagpur,Vikram Patel,Chrome Magnesia Brick,Shaped,44,6200,4100,272800,180400,92400,33.87,19,35,16,No,Q3,Aug-24
+MRPL-1203,18-10-2024,24-11-2024,Non-Ferrous,BALCO,Mumbai,Rajesh Kumar,Plastic Refractory,Unshaped,209,2900,1750,606100,365750,240350,39.66,22,37,15,No,Q4,Oct-24
+MRPL-1204,04-10-2024,11-11-2024,Iron & Steel,JSW Steel,Nagpur,Priya Singh,Plastic Refractory,Unshaped,198,2900,1750,574200,346500,227700,39.66,23,38,15,No,Q4,Oct-24
+MRPL-1205,16-03-2023,31-03-2023,Fertilizer,Coromandel,Vizag,Amit Sharma,Gunning Mix,Unshaped,181,2600,1500,470600,271500,199100,42.31,15,15,0,Yes,Q1,Mar-23
+MRPL-1206,17-11-2023,29-12-2023,Cement,Ambuja Cement,Chennai,Vikram Patel,Mortar,Unshaped,259,1600,950,414400,246050,168350,40.62,24,42,18,No,Q4,Nov-23
+MRPL-1207,19-04-2023,19-05-2023,Fertilizer,Chambal Fertilizers,Kolkata,Vikram Patel,Mortar,Unshaped,86,1600,950,137600,81700,55900,40.62,21,30,9,No,Q2,Apr-23
+MRPL-1208,29-01-2024,27-02-2024,Iron & Steel,JSW Steel,Kolkata,Rajesh Kumar,Gunning Mix,Unshaped,162,2600,1500,421200,243000,178200,42.31,27,29,2,No,Q1,Jan-24
+MRPL-1209,14-07-2023,12-09-2023,Fertilizer,Deepak Fertilizers,Export-Africa,Deepak Joshi,Silica Brick,Shaped,200,3100,2000,620000,400000,220000,35.48,19,60,41,No,Q3,Jul-23
+MRPL-1210,03-04-2023,11-06-2023,Fertilizer,Chambal Fertilizers,Export-Africa,Priya Singh,Mortar,Unshaped,105,1600,950,168000,99750,68250,40.62,30,69,39,No,Q2,Apr-23
+MRPL-1211,21-05-2024,23-06-2024,Fertilizer,NFL,Ahmedabad,Rajesh Kumar,Chrome Magnesia Brick,Shaped,157,6200,4100,973400,643700,329700,33.87,29,33,4,No,Q2,May-24
+MRPL-1212,17-02-2024,10-03-2024,Power,Adani Power,Kolkata,Deepak Joshi,Magnesia Brick,Shaped,98,5500,3600,539000,352800,186200,34.55,15,22,7,No,Q1,Feb-24
+MRPL-1213,31-05-2024,08-07-2024,Iron & Steel,SAIL,Raipur,Rajesh Kumar,Silica Brick,Shaped,120,3100,2000,372000,240000,132000,35.48,22,38,16,No,Q2,May-24
+MRPL-1214,14-12-2023,27-01-2024,Non-Ferrous,NALCO,Delhi,Amit Sharma,Fireclay Brick,Shaped,202,2800,1800,565600,363600,202000,35.71,25,44,19,No,Q4,Dec-23
+MRPL-1215,08-12-2023,16-01-2024,Iron & Steel,JSW Steel,Mumbai,Rajesh Kumar,Plastic Refractory,Unshaped,173,2900,1750,501700,302750,198950,39.66,30,39,9,No,Q4,Dec-23
+MRPL-1216,07-02-2024,01-04-2024,Iron & Steel,RINL,Export-Africa,Amit Sharma,Silica Brick,Shaped,162,3100,2000,502200,324000,178200,35.48,23,54,31,No,Q1,Feb-24
+MRPL-1217,18-01-2023,01-03-2023,Power,Adani Power,Jamshedpur,Priya Singh,Refractory Coating,Unshaped,99,2100,1200,207900,118800,89100,42.86,24,42,18,No,Q1,Jan-23
+MRPL-1218,29-09-2023,07-11-2023,Iron & Steel,JSW Steel,Pune,Vikram Patel,Plastic Refractory,Unshaped,172,2900,1750,498800,301000,197800,39.66,21,39,18,No,Q3,Sep-23
+MRPL-1219,25-01-2024,15-02-2024,Iron & Steel,RINL,Raipur,Deepak Joshi,Gunning Mix,Unshaped,42,2600,1500,109200,63000,46200,42.31,21,21,0,Yes,Q1,Jan-24
+MRPL-1220,05-06-2023,03-07-2023,Power,Tata Power,Mumbai,Amit Sharma,Fireclay Brick,Shaped,110,2800,1800,308000,198000,110000,35.71,20,28,8,No,Q2,Jun-23
+MRPL-1221,15-06-2024,25-07-2024,Power,NTPC,Surat,Sunita Rao,Refractory Coating,Unshaped,58,2100,1200,121800,69600,52200,42.86,24,40,16,No,Q2,Jun-24
+MRPL-1222,17-12-2023,27-01-2024,Power,Tata Power,Kolkata,Sanjay Tiwari,Ramming Mass,Unshaped,198,2200,1300,435600,257400,178200,40.91,25,41,16,No,Q4,Dec-23
+MRPL-1223,13-10-2023,07-11-2023,Glass,Saint Gobain,Bhopal,Sanjay Tiwari,Plastic Refractory,Unshaped,202,2900,1750,585800,353500,232300,39.66,23,25,2,No,Q4,Oct-23
+MRPL-1224,15-05-2024,19-06-2024,Ceramic,Somany Ceramics,Surat,Sunita Rao,Ramming Mass,Unshaped,86,2200,1300,189200,111800,77400,40.91,29,35,6,No,Q2,May-24
+MRPL-1225,24-01-2024,14-03-2024,Power,CESC,Delhi,Sunita Rao,Ramming Mass,Unshaped,106,2200,1300,233200,137800,95400,40.91,25,50,25,No,Q1,Jan-24
+MRPL-1226,22-03-2023,04-05-2023,Glass,Borosil,Mumbai,Sanjay Tiwari,Silica Brick,Shaped,93,3100,2000,288300,186000,102300,35.48,28,43,15,No,Q1,Mar-23
+MRPL-1227,29-07-2024,20-08-2024,Iron & Steel,RINL,Chennai,Amit Sharma,Gunning Mix,Unshaped,183,2600,1500,475800,274500,201300,42.31,22,22,0,Yes,Q3,Jul-24
+MRPL-1228,27-08-2023,21-09-2023,Iron & Steel,RINL,Mumbai,Amit Sharma,Fireclay Brick,Shaped,18,2800,1800,50400,32400,18000,35.71,17,25,8,No,Q3,Aug-23
+MRPL-1229,17-07-2024,28-08-2024,Cement,ACC,Nagpur,Rajesh Kumar,Low Cement Castable,Unshaped,45,3800,2300,171000,103500,67500,39.47,27,42,15,No,Q3,Jul-24
+MRPL-1230,22-10-2023,29-11-2023,Ceramic,Somany Ceramics,Nagpur,Deepak Joshi,Mortar,Unshaped,120,1600,950,192000,114000,78000,40.62,23,38,15,No,Q4,Oct-23
+MRPL-1231,08-02-2023,09-03-2023,Iron & Steel,Tata Steel,Jamshedpur,Vikram Patel,Insulation Brick,Shaped,49,1900,1200,93100,58800,34300,36.84,27,29,2,No,Q1,Feb-23
+MRPL-1232,24-10-2023,11-11-2023,Ceramic,H&R Johnson,Vizag,Rajesh Kumar,Magnesia Brick,Shaped,19,5500,3600,104500,68400,36100,34.55,14,18,4,No,Q4,Oct-23
+MRPL-1233,10-07-2024,31-08-2024,Power,Tata Power,Pune,Sanjay Tiwari,Silica Brick,Shaped,139,3100,2000,430900,278000,152900,35.48,29,52,23,No,Q3,Jul-24
+MRPL-1234,14-04-2024,23-05-2024,Ceramic,Kajaria Ceramics,Chennai,Amit Sharma,Ramming Mass,Unshaped,170,2200,1300,374000,221000,153000,40.91,22,39,17,No,Q2,Apr-24
+MRPL-1235,16-10-2024,25-11-2024,Iron & Steel,Tata Steel,Jamshedpur,Rajesh Kumar,Ramming Mass,Unshaped,149,2200,1300,327800,193700,134100,40.91,27,40,13,No,Q4,Oct-24
+MRPL-1236,03-05-2024,24-05-2024,Cement,ACC,Delhi,Sanjay Tiwari,Refractory Coating,Unshaped,87,2100,1200,182700,104400,78300,42.86,21,21,0,Yes,Q2,May-24
+MRPL-1237,06-11-2023,23-11-2023,Iron & Steel,SAIL,Vizag,Sanjay Tiwari,Magnesia Brick,Shaped,212,5500,3600,1166000,763200,402800,34.55,14,17,3,No,Q4,Nov-23
+MRPL-1238,13-06-2023,06-08-2023,Non-Ferrous,BALCO,Nagpur,Priya Singh,High Alumina Brick,Shaped,108,4200,2800,453600,302400,151200,33.33,30,54,24,No,Q2,Jun-23
+MRPL-1239,15-08-2023,12-09-2023,Ceramic,RAK Ceramics,Delhi,Amit Sharma,Refractory Coating,Unshaped,61,2100,1200,128100,73200,54900,42.86,18,28,10,No,Q3,Aug-23
+MRPL-1240,04-07-2024,12-08-2024,Iron & Steel,RINL,Surat,Sanjay Tiwari,Mortar,Unshaped,175,1600,950,280000,166250,113750,40.62,20,39,19,No,Q3,Jul-24
+MRPL-1241,21-03-2023,07-04-2023,Iron & Steel,RINL,Bhopal,Sunita Rao,Chrome Magnesia Brick,Shaped,149,6200,4100,923800,610900,312900,33.87,17,17,0,Yes,Q1,Mar-23
+MRPL-1242,16-06-2024,21-07-2024,Petrochemical,BPCL,Raipur,Rajesh Kumar,Chrome Magnesia Brick,Shaped,118,6200,4100,731600,483800,247800,33.87,17,35,18,No,Q2,Jun-24
+MRPL-1243,26-02-2023,27-04-2023,Iron & Steel,RINL,Export-Africa,Priya Singh,Low Cement Castable,Unshaped,121,3800,2300,459800,278300,181500,39.47,18,60,42,No,Q1,Feb-23
+MRPL-1244,10-02-2024,13-03-2024,Cement,Ambuja Cement,Bhopal,Deepak Joshi,Chrome Magnesia Brick,Shaped,70,6200,4100,434000,287000,147000,33.87,14,32,18,No,Q1,Feb-24
+MRPL-1245,08-07-2024,17-08-2024,Iron & Steel,SAIL,Hyderabad,Sunita Rao,High Alumina Brick,Shaped,20,4200,2800,84000,56000,28000,33.33,16,40,24,No,Q3,Jul-24
+MRPL-1246,23-10-2024,10-12-2024,Power,NPCIL,Kolkata,Deepak Joshi,Mortar,Unshaped,154,1600,950,246400,146300,100100,40.62,25,48,23,No,Q4,Oct-24
+MRPL-1247,23-12-2023,23-01-2024,Cement,Dalmia Cement,Delhi,Rajesh Kumar,Mortar,Unshaped,48,1600,950,76800,45600,31200,40.62,19,31,12,No,Q4,Dec-23
+MRPL-1248,02-11-2023,11-12-2023,Cement,UltraTech Cement,Chennai,Deepak Joshi,Insulation Brick,Shaped,169,1900,1200,321100,202800,118300,36.84,27,39,12,No,Q4,Nov-23
+MRPL-1249,13-07-2023,30-07-2023,Cement,Ambuja Cement,Bhopal,Rajesh Kumar,Fireclay Brick,Shaped,190,2800,1800,532000,342000,190000,35.71,17,17,0,Yes,Q3,Jul-23
+MRPL-1250,10-03-2023,03-04-2023,Glass,HNG Glass,Vizag,Amit Sharma,Plastic Refractory,Unshaped,30,2900,1750,87000,52500,34500,39.66,15,24,9,No,Q1,Mar-23
+MRPL-1251,28-08-2023,06-10-2023,Power,NTPC,Surat,Priya Singh,Fireclay Brick,Shaped,143,2800,1800,400400,257400,143000,35.71,20,39,19,No,Q3,Aug-23
+MRPL-1252,12-08-2024,09-09-2024,Petrochemical,IOC,Raipur,Amit Sharma,Fireclay Brick,Shaped,86,2800,1800,240800,154800,86000,35.71,24,28,4,No,Q3,Aug-24
+MRPL-1253,09-10-2023,14-11-2023,Iron & Steel,Tata Steel,Raipur,Priya Singh,Insulation Brick,Shaped,27,1900,1200,51300,32400,18900,36.84,19,36,17,No,Q4,Oct-23
+MRPL-1254,23-11-2023,28-12-2023,Non-Ferrous,NALCO,Ahmedabad,Deepak Joshi,Low Cement Castable,Unshaped,252,3800,2300,957600,579600,378000,39.47,27,35,8,No,Q4,Nov-23
+MRPL-1255,19-08-2023,26-09-2023,Iron & Steel,RINL,Vizag,Priya Singh,Gunning Mix,Unshaped,81,2600,1500,210600,121500,89100,42.31,18,38,20,No,Q3,Aug-23
+MRPL-1256,18-05-2023,11-06-2023,Cement,Shree Cement,Hyderabad,Vikram Patel,Chrome Magnesia Brick,Shaped,104,6200,4100,644800,426400,218400,33.87,21,24,3,No,Q2,May-23
+MRPL-1257,15-07-2023,15-08-2023,Iron & Steel,SAIL,Ranchi,Rajesh Kumar,Magnesia Brick,Shaped,18,5500,3600,99000,64800,34200,34.55,22,31,9,No,Q3,Jul-23
+MRPL-1258,26-07-2024,25-08-2024,Non-Ferrous,Sterlite,Chennai,Deepak Joshi,High Alumina Brick,Shaped,60,4200,2800,252000,168000,84000,33.33,29,30,1,No,Q3,Jul-24
+MRPL-1259,14-07-2023,09-09-2023,Petrochemical,HPCL,Export-Africa,Amit Sharma,Ramming Mass,Unshaped,194,2200,1300,426800,252200,174600,40.91,17,57,40,No,Q3,Jul-23
+MRPL-1260,17-10-2023,28-12-2023,Ceramic,Somany Ceramics,Export-Africa,Vikram Patel,Magnesia Brick,Shaped,140,5500,3600,770000,504000,266000,34.55,28,72,44,No,Q4,Oct-23
+MRPL-1261,22-04-2024,09-06-2024,Non-Ferrous,Sterlite,Ahmedabad,Neha Gupta,Ramming Mass,Unshaped,30,2200,1300,66000,39000,27000,40.91,29,48,19,No,Q2,Apr-24
+MRPL-1262,15-08-2023,02-09-2023,Petrochemical,ONGC,Ahmedabad,Rajesh Kumar,Silica Brick,Shaped,194,3100,2000,601400,388000,213400,35.48,18,18,0,Yes,Q3,Aug-23
+MRPL-1263,24-01-2024,24-02-2024,Iron & Steel,Tata Steel,Kolkata,Amit Sharma,Ramming Mass,Unshaped,150,2200,1300,330000,195000,135000,40.91,21,31,10,No,Q1,Jan-24
+MRPL-1264,19-10-2024,26-11-2024,Power,Tata Power,Vizag,Sanjay Tiwari,Ramming Mass,Unshaped,267,2200,1300,587400,347100,240300,40.91,29,38,9,No,Q4,Oct-24
+MRPL-1265,09-07-2024,04-08-2024,Iron & Steel,RINL,Kolkata,Priya Singh,Gunning Mix,Unshaped,169,2600,1500,439400,253500,185900,42.31,15,26,11,No,Q3,Jul-24
+MRPL-1266,07-10-2024,09-11-2024,Iron & Steel,JSW Steel,Mumbai,Priya Singh,Insulation Brick,Shaped,88,1900,1200,167200,105600,61600,36.84,16,33,17,No,Q4,Oct-24
+MRPL-1267,15-10-2024,29-11-2024,Iron & Steel,SAIL,Bhopal,Rajesh Kumar,Chrome Magnesia Brick,Shaped,241,6200,4100,1494200,988100,506100,33.87,29,45,16,No,Q4,Oct-24
+MRPL-1268,26-06-2024,01-08-2024,Power,Tata Power,Raipur,Rajesh Kumar,Chrome Magnesia Brick,Shaped,189,6200,4100,1171800,774900,396900,33.87,22,36,14,No,Q2,Jun-24
+MRPL-1269,03-07-2023,02-08-2023,Fertilizer,Coromandel,Ranchi,Deepak Joshi,Chrome Magnesia Brick,Shaped,32,6200,4100,198400,131200,67200,33.87,17,30,13,No,Q3,Jul-23
+MRPL-1270,01-10-2023,25-10-2023,Iron & Steel,SAIL,Raipur,Neha Gupta,Chrome Magnesia Brick,Shaped,146,6200,4100,905200,598600,306600,33.87,16,24,8,No,Q4,Oct-23
+MRPL-1271,24-03-2023,08-04-2023,Fertilizer,IFFCO,Chennai,Amit Sharma,Plastic Refractory,Unshaped,172,2900,1750,498800,301000,197800,39.66,15,15,0,Yes,Q1,Mar-23
+MRPL-1272,20-12-2024,15-01-2025,Cement,UltraTech Cement,Bhopal,Sunita Rao,Plastic Refractory,Unshaped,66,2900,1750,191400,115500,75900,39.66,16,26,10,No,Q4,Dec-24
+MRPL-1273,13-02-2023,24-03-2023,Petrochemical,HPCL,Ranchi,Neha Gupta,Plastic Refractory,Unshaped,63,2900,1750,182700,110250,72450,39.66,20,39,19,No,Q1,Feb-23
+MRPL-1274,15-10-2023,30-10-2023,Petrochemical,HPCL,Mumbai,Sunita Rao,Ramming Mass,Unshaped,198,2200,1300,435600,257400,178200,40.91,15,15,0,Yes,Q4,Oct-23
+MRPL-1275,30-12-2024,19-01-2025,Ceramic,Orient Bell,Chennai,Rajesh Kumar,Low Cement Castable,Unshaped,146,3800,2300,554800,335800,219000,39.47,16,20,4,No,Q4,Dec-24
+MRPL-1276,07-07-2024,22-08-2024,Iron & Steel,Jindal Steel,Ranchi,Sunita Rao,Chrome Magnesia Brick,Shaped,89,6200,4100,551800,364900,186900,33.87,26,46,20,No,Q3,Jul-24
+MRPL-1277,23-03-2024,13-04-2024,Iron & Steel,SAIL,Surat,Rajesh Kumar,Chrome Magnesia Brick,Shaped,64,6200,4100,396800,262400,134400,33.87,16,21,5,No,Q1,Mar-24
+MRPL-1278,06-04-2024,03-05-2024,Power,Adani Power,Mumbai,Deepak Joshi,Ramming Mass,Unshaped,130,2200,1300,286000,169000,117000,40.91,21,27,6,No,Q2,Apr-24
+MRPL-1279,29-03-2023,11-05-2023,Power,CESC,Kolkata,Sunita Rao,Mortar,Unshaped,163,1600,950,260800,154850,105950,40.62,23,43,20,No,Q1,Mar-23
+MRPL-1280,11-10-2024,11-11-2024,Iron & Steel,Tata Steel,Pune,Amit Sharma,High Alumina Brick,Shaped,60,4200,2800,252000,168000,84000,33.33,26,31,5,No,Q4,Oct-24
+MRPL-1281,04-10-2023,22-10-2023,Cement,Shree Cement,Pune,Amit Sharma,High Alumina Brick,Shaped,42,4200,2800,176400,117600,58800,33.33,18,18,0,Yes,Q4,Oct-23
+MRPL-1282,27-01-2023,07-03-2023,Iron & Steel,RINL,Raipur,Priya Singh,Plastic Refractory,Unshaped,27,2900,1750,78300,47250,31050,39.66,25,39,14,No,Q1,Jan-23
+MRPL-1283,28-03-2023,01-05-2023,Iron & Steel,SAIL,Mumbai,Priya Singh,Mortar,Unshaped,190,1600,950,304000,180500,123500,40.62,21,34,13,No,Q1,Mar-23
+MRPL-1284,19-05-2024,04-06-2024,Power,Adani Power,Kolkata,Amit Sharma,Gunning Mix,Unshaped,42,2600,1500,109200,63000,46200,42.31,16,16,0,Yes,Q2,May-24
+MRPL-1285,10-09-2023,23-10-2023,Cement,UltraTech Cement,Bhopal,Amit Sharma,Ramming Mass,Unshaped,189,2200,1300,415800,245700,170100,40.91,29,43,14,No,Q3,Sep-23
+MRPL-1286,10-02-2024,27-03-2024,Non-Ferrous,Vedanta,Kolkata,Rajesh Kumar,Low Cement Castable,Unshaped,90,3800,2300,342000,207000,135000,39.47,26,46,20,No,Q1,Feb-24
+MRPL-1287,25-11-2023,25-12-2023,Petrochemical,Reliance,Hyderabad,Rajesh Kumar,Ramming Mass,Unshaped,219,2200,1300,481800,284700,197100,40.91,20,30,10,No,Q4,Nov-23
+MRPL-1288,06-09-2023,05-10-2023,Iron & Steel,Jindal Steel,Pune,Sanjay Tiwari,Ramming Mass,Unshaped,88,2200,1300,193600,114400,79200,40.91,26,29,3,No,Q3,Sep-23
+MRPL-1289,12-07-2024,20-08-2024,Petrochemical,Reliance,Delhi,Rajesh Kumar,Ramming Mass,Unshaped,51,2200,1300,112200,66300,45900,40.91,14,39,25,No,Q3,Jul-24
+MRPL-1290,12-03-2023,10-04-2023,Non-Ferrous,Vedanta,Vizag,Neha Gupta,Magnesia Brick,Shaped,109,5500,3600,599500,392400,207100,34.55,29,29,0,Yes,Q1,Mar-23
+MRPL-1291,22-01-2024,04-03-2024,Non-Ferrous,Hindalco,Nagpur,Deepak Joshi,Silica Brick,Shaped,23,3100,2000,71300,46000,25300,35.48,28,42,14,No,Q1,Jan-24
+MRPL-1292,04-01-2024,20-01-2024,Power,Tata Power,Raipur,Vikram Patel,Plastic Refractory,Unshaped,184,2900,1750,533600,322000,211600,39.66,16,16,0,Yes,Q1,Jan-24
+MRPL-1293,22-10-2024,12-12-2024,Glass,Piramal Glass,Nagpur,Rajesh Kumar,Gunning Mix,Unshaped,245,2600,1500,637000,367500,269500,42.31,26,51,25,No,Q4,Oct-24
+MRPL-1294,06-06-2024,18-07-2024,Glass,HNG Glass,Mumbai,Amit Sharma,Low Cement Castable,Unshaped,196,3800,2300,744800,450800,294000,39.47,30,42,12,No,Q2,Jun-24
+MRPL-1295,26-11-2024,26-12-2024,Power,Tata Power,Ahmedabad,Priya Singh,Magnesia Brick,Shaped,213,5500,3600,1171500,766800,404700,34.55,30,30,0,Yes,Q4,Nov-24
+MRPL-1296,29-03-2023,22-04-2023,Cement,Ambuja Cement,Delhi,Priya Singh,Magnesia Brick,Shaped,34,5500,3600,187000,122400,64600,34.55,18,24,6,No,Q1,Mar-23
+MRPL-1297,10-04-2023,15-05-2023,Iron & Steel,Jindal Steel,Raipur,Amit Sharma,Gunning Mix,Unshaped,117,2600,1500,304200,175500,128700,42.31,28,35,7,No,Q2,Apr-23
+MRPL-1298,25-10-2024,07-12-2024,Iron & Steel,JSW Steel,Delhi,Neha Gupta,Insulation Brick,Shaped,44,1900,1200,83600,52800,30800,36.84,19,43,24,No,Q4,Oct-24
+MRPL-1299,27-07-2024,26-08-2024,Fertilizer,Deepak Fertilizers,Kolkata,Rajesh Kumar,Chrome Magnesia Brick,Shaped,114,6200,4100,706800,467400,239400,33.87,28,30,2,No,Q3,Jul-24
+MRPL-1300,20-09-2024,31-10-2024,Glass,AGI Glaspac,Nagpur,Priya Singh,Fireclay Brick,Shaped,55,2800,1800,154000,99000,55000,35.71,28,41,13,No,Q3,Sep-24
+MRPL-1301,21-12-2024,27-01-2025,Cement,ACC,Chennai,Amit Sharma,Insulation Brick,Shaped,28,1900,1200,53200,33600,19600,36.84,17,37,20,No,Q4,Dec-24
+MRPL-1302,26-09-2023,05-11-2023,Petrochemical,BPCL,Ahmedabad,Priya Singh,Silica Brick,Shaped,176,3100,2000,545600,352000,193600,35.48,29,40,11,No,Q3,Sep-23
+MRPL-1303,27-04-2023,13-06-2023,Fertilizer,Deepak Fertilizers,Hyderabad,Priya Singh,Plastic Refractory,Unshaped,94,2900,1750,272600,164500,108100,39.66,25,47,22,No,Q2,Apr-23
+MRPL-1304,27-08-2024,19-09-2024,Cement,Ambuja Cement,Surat,Sanjay Tiwari,Insulation Brick,Shaped,26,1900,1200,49400,31200,18200,36.84,18,23,5,No,Q3,Aug-24
+MRPL-1305,07-06-2024,18-07-2024,Iron & Steel,SAIL,Kolkata,Sunita Rao,Low Cement Castable,Unshaped,104,3800,2300,395200,239200,156000,39.47,27,41,14,No,Q2,Jun-24
+MRPL-1306,11-12-2024,11-01-2025,Iron & Steel,Jindal Steel,Kolkata,Sunita Rao,Mortar,Unshaped,234,1600,950,374400,222300,152100,40.62,19,31,12,No,Q4,Dec-24
+MRPL-1307,26-09-2024,15-11-2024,Iron & Steel,SAIL,Kolkata,Neha Gupta,Gunning Mix,Unshaped,18,2600,1500,46800,27000,19800,42.31,25,50,25,No,Q3,Sep-24
+MRPL-1308,01-06-2024,10-07-2024,Iron & Steel,Jindal Steel,Ranchi,Sanjay Tiwari,Fireclay Brick,Shaped,172,2800,1800,481600,309600,172000,35.71,29,39,10,No,Q2,Jun-24
+MRPL-1309,26-03-2023,13-04-2023,Non-Ferrous,NALCO,Ranchi,Priya Singh,Refractory Coating,Unshaped,149,2100,1200,312900,178800,134100,42.86,14,18,4,No,Q1,Mar-23
+MRPL-1310,13-04-2024,26-05-2024,Iron & Steel,SAIL,Raipur,Rajesh Kumar,Gunning Mix,Unshaped,149,2600,1500,387400,223500,163900,42.31,29,43,14,No,Q2,Apr-24
+MRPL-1311,11-01-2024,14-02-2024,Power,CESC,Vizag,Neha Gupta,Silica Brick,Shaped,143,3100,2000,443300,286000,157300,35.48,15,34,19,No,Q1,Jan-24
+MRPL-1312,03-02-2023,03-03-2023,Non-Ferrous,Hindalco,Delhi,Amit Sharma,Magnesia Brick,Shaped,120,5500,3600,660000,432000,228000,34.55,22,28,6,No,Q1,Feb-23
+MRPL-1313,31-08-2023,14-10-2023,Petrochemical,HPCL,Ranchi,Deepak Joshi,Magnesia Brick,Shaped,58,5500,3600,319000,208800,110200,34.55,25,44,19,No,Q3,Aug-23
+MRPL-1314,31-07-2023,08-09-2023,Non-Ferrous,Hindalco,Jamshedpur,Deepak Joshi,Gunning Mix,Unshaped,20,2600,1500,52000,30000,22000,42.31,25,39,14,No,Q3,Jul-23
+MRPL-1315,01-10-2023,18-10-2023,Iron & Steel,SAIL,Surat,Amit Sharma,Silica Brick,Shaped,187,3100,2000,579700,374000,205700,35.48,17,17,0,Yes,Q4,Oct-23
+MRPL-1316,16-05-2023,20-06-2023,Fertilizer,IFFCO,Pune,Sunita Rao,Low Cement Castable,Unshaped,68,3800,2300,258400,156400,102000,39.47,18,35,17,No,Q2,May-23
+MRPL-1317,09-10-2024,12-11-2024,Cement,Shree Cement,Hyderabad,Rajesh Kumar,Insulation Brick,Shaped,100,1900,1200,190000,120000,70000,36.84,27,34,7,No,Q4,Oct-24
+MRPL-1318,13-01-2024,18-02-2024,Cement,Ambuja Cement,Raipur,Sunita Rao,Magnesia Brick,Shaped,121,5500,3600,665500,435600,229900,34.55,29,36,7,No,Q1,Jan-24
+MRPL-1319,01-07-2024,15-08-2024,Power,Adani Power,Bhopal,Neha Gupta,Insulation Brick,Shaped,106,1900,1200,201400,127200,74200,36.84,20,45,25,No,Q3,Jul-24
+MRPL-1320,12-12-2023,12-01-2024,Cement,Ambuja Cement,Pune,Neha Gupta,Magnesia Brick,Shaped,200,5500,3600,1100000,720000,380000,34.55,18,31,13,No,Q4,Dec-23
+MRPL-1321,03-10-2024,17-10-2024,Petrochemical,HPCL,Vizag,Rajesh Kumar,Refractory Coating,Unshaped,168,2100,1200,352800,201600,151200,42.86,14,14,0,Yes,Q4,Oct-24
+MRPL-1322,14-03-2024,24-04-2024,Ceramic,Kajaria Ceramics,Bhopal,Sanjay Tiwari,Magnesia Brick,Shaped,56,5500,3600,308000,201600,106400,34.55,18,41,23,No,Q1,Mar-24
+MRPL-1323,16-01-2024,04-02-2024,Non-Ferrous,Vedanta,Delhi,Amit Sharma,Silica Brick,Shaped,175,3100,2000,542500,350000,192500,35.48,19,19,0,Yes,Q1,Jan-24
+MRPL-1324,04-04-2023,21-04-2023,Cement,ACC,Surat,Priya Singh,Refractory Coating,Unshaped,185,2100,1200,388500,222000,166500,42.86,17,17,0,Yes,Q2,Apr-23
+MRPL-1325,31-03-2024,03-05-2024,Iron & Steel,Tata Steel,Jamshedpur,Vikram Patel,Fireclay Brick,Shaped,7,2800,1800,19600,12600,7000,35.71,14,33,19,No,Q1,Mar-24
+MRPL-1326,23-08-2023,26-09-2023,Cement,ACC,Surat,Priya Singh,Magnesia Brick,Shaped,103,5500,3600,566500,370800,195700,34.55,16,34,18,No,Q3,Aug-23
+MRPL-1327,17-05-2023,04-06-2023,Glass,Borosil,Ahmedabad,Rajesh Kumar,Silica Brick,Shaped,169,3100,2000,523900,338000,185900,35.48,18,18,0,Yes,Q2,May-23
+MRPL-1328,07-08-2023,18-09-2023,Power,NPCIL,Nagpur,Priya Singh,Chrome Magnesia Brick,Shaped,165,6200,4100,1023000,676500,346500,33.87,18,42,24,No,Q3,Aug-23
+MRPL-1329,07-05-2023,08-06-2023,Cement,UltraTech Cement,Delhi,Rajesh Kumar,Gunning Mix,Unshaped,155,2600,1500,403000,232500,170500,42.31,26,32,6,No,Q2,May-23
+MRPL-1330,12-09-2023,24-10-2023,Fertilizer,Chambal Fertilizers,Chennai,Sunita Rao,Gunning Mix,Unshaped,146,2600,1500,379600,219000,160600,42.31,23,42,19,No,Q3,Sep-23
+MRPL-1331,13-09-2024,07-11-2024,Ceramic,RAK Ceramics,Export-Africa,Amit Sharma,Insulation Brick,Shaped,135,1900,1200,256500,162000,94500,36.84,20,55,35,No,Q3,Sep-24
+MRPL-1332,26-05-2024,22-06-2024,Iron & Steel,Jindal Steel,Bhopal,Rajesh Kumar,Fireclay Brick,Shaped,168,2800,1800,470400,302400,168000,35.71,16,27,11,No,Q2,May-24
+MRPL-1333,05-08-2024,13-10-2024,Petrochemical,IOC,Export-Africa,Rajesh Kumar,Silica Brick,Shaped,112,3100,2000,347200,224000,123200,35.48,25,69,44,No,Q3,Aug-24
+MRPL-1334,26-09-2023,04-11-2023,Non-Ferrous,Sterlite,Mumbai,Rajesh Kumar,Low Cement Castable,Unshaped,60,3800,2300,228000,138000,90000,39.47,15,39,24,No,Q3,Sep-23
+MRPL-1335,09-03-2024,04-04-2024,Iron & Steel,RINL,Pune,Deepak Joshi,Plastic Refractory,Unshaped,184,2900,1750,533600,322000,211600,39.66,26,26,0,Yes,Q1,Mar-24
+MRPL-1336,28-07-2023,28-08-2023,Non-Ferrous,Vedanta,Delhi,Rajesh Kumar,Silica Brick,Shaped,44,3100,2000,136400,88000,48400,35.48,24,31,7,No,Q3,Jul-23
+MRPL-1337,02-09-2023,23-09-2023,Power,Tata Power,Surat,Deepak Joshi,Silica Brick,Shaped,19,3100,2000,58900,38000,20900,35.48,21,21,0,Yes,Q3,Sep-23
+MRPL-1338,13-11-2024,02-12-2024,Ceramic,Orient Bell,Jamshedpur,Rajesh Kumar,Magnesia Brick,Shaped,267,5500,3600,1468500,961200,507300,34.55,19,19,0,Yes,Q4,Nov-24
+MRPL-1339,22-12-2023,10-02-2024,Iron & Steel,Tata Steel,Mumbai,Priya Singh,Insulation Brick,Shaped,190,1900,1200,361000,228000,133000,36.84,30,50,20,No,Q4,Dec-23
+MRPL-1340,03-10-2023,08-11-2023,Petrochemical,BPCL,Ahmedabad,Deepak Joshi,Gunning Mix,Unshaped,264,2600,1500,686400,396000,290400,42.31,17,36,19,No,Q4,Oct-23
+MRPL-1341,30-12-2024,25-01-2025,Ceramic,Orient Bell,Pune,Rajesh Kumar,Mortar,Unshaped,209,1600,950,334400,198550,135850,40.62,16,26,10,No,Q4,Dec-24
+MRPL-1342,11-06-2023,21-07-2023,Cement,Dalmia Cement,Bhopal,Rajesh Kumar,Low Cement Castable,Unshaped,70,3800,2300,266000,161000,105000,39.47,17,40,23,No,Q2,Jun-23
+MRPL-1343,13-01-2023,07-02-2023,Power,CESC,Surat,Rajesh Kumar,Fireclay Brick,Shaped,67,2800,1800,187600,120600,67000,35.71,15,25,10,No,Q1,Jan-23
+MRPL-1344,02-11-2024,23-12-2024,Cement,UltraTech Cement,Export-Africa,Vikram Patel,Fireclay Brick,Shaped,154,2800,1800,431200,277200,154000,35.71,21,51,30,No,Q4,Nov-24
+MRPL-1345,03-05-2023,20-05-2023,Iron & Steel,JSW Steel,Ranchi,Vikram Patel,Ramming Mass,Unshaped,133,2200,1300,292600,172900,119700,40.91,15,17,2,No,Q2,May-23
+MRPL-1346,15-11-2023,13-12-2023,Iron & Steel,Jindal Steel,Delhi,Neha Gupta,Magnesia Brick,Shaped,121,5500,3600,665500,435600,229900,34.55,16,28,12,No,Q4,Nov-23
+MRPL-1347,29-09-2024,02-11-2024,Cement,Dalmia Cement,Pune,Deepak Joshi,Gunning Mix,Unshaped,67,2600,1500,174200,100500,73700,42.31,28,34,6,No,Q3,Sep-24
+MRPL-1348,09-09-2023,17-10-2023,Power,CESC,Surat,Deepak Joshi,Gunning Mix,Unshaped,43,2600,1500,111800,64500,47300,42.31,14,38,24,No,Q3,Sep-23
+MRPL-1349,02-01-2023,19-02-2023,Cement,UltraTech Cement,Ahmedabad,Sanjay Tiwari,Chrome Magnesia Brick,Shaped,199,6200,4100,1233800,815900,417900,33.87,26,48,22,No,Q1,Jan-23
+MRPL-1350,05-03-2024,20-03-2024,Glass,Piramal Glass,Chennai,Sanjay Tiwari,Low Cement Castable,Unshaped,130,3800,2300,494000,299000,195000,39.47,15,15,0,Yes,Q1,Mar-24
+MRPL-1351,16-06-2024,19-08-2024,Non-Ferrous,Hindalco,Export-Africa,Neha Gupta,High Alumina Brick,Shaped,110,4200,2800,462000,308000,154000,33.33,25,64,39,No,Q2,Jun-24
+MRPL-1352,08-02-2024,02-03-2024,Fertilizer,Deepak Fertilizers,Delhi,Rajesh Kumar,Chrome Magnesia Brick,Shaped,24,6200,4100,148800,98400,50400,33.87,15,23,8,No,Q1,Feb-24
+MRPL-1353,07-02-2024,07-03-2024,Non-Ferrous,Vedanta,Pune,Neha Gupta,Fireclay Brick,Shaped,184,2800,1800,515200,331200,184000,35.71,24,29,5,No,Q1,Feb-24
+MRPL-1354,21-08-2024,08-09-2024,Cement,ACC,Chennai,Deepak Joshi,High Alumina Brick,Shaped,32,4200,2800,134400,89600,44800,33.33,18,18,0,Yes,Q3,Aug-24
+MRPL-1355,01-08-2023,02-09-2023,Iron & Steel,JSW Steel,Hyderabad,Vikram Patel,Ramming Mass,Unshaped,120,2200,1300,264000,156000,108000,40.91,23,32,9,No,Q3,Aug-23
+MRPL-1356,14-12-2024,30-12-2024,Iron & Steel,SAIL,Kolkata,Neha Gupta,High Alumina Brick,Shaped,219,4200,2800,919800,613200,306600,33.33,15,16,1,No,Q4,Dec-24
+MRPL-1357,10-02-2024,12-03-2024,Petrochemical,BPCL,Delhi,Sanjay Tiwari,Gunning Mix,Unshaped,136,2600,1500,353600,204000,149600,42.31,15,31,16,No,Q1,Feb-24
+MRPL-1358,17-07-2024,12-08-2024,Iron & Steel,Jindal Steel,Hyderabad,Vikram Patel,High Alumina Brick,Shaped,68,4200,2800,285600,190400,95200,33.33,17,26,9,No,Q3,Jul-24
+MRPL-1359,16-08-2023,26-09-2023,Iron & Steel,JSW Steel,Mumbai,Neha Gupta,High Alumina Brick,Shaped,38,4200,2800,159600,106400,53200,33.33,20,41,21,No,Q3,Aug-23
+MRPL-1360,18-03-2023,06-04-2023,Cement,Ambuja Cement,Jamshedpur,Sanjay Tiwari,Chrome Magnesia Brick,Shaped,10,6200,4100,62000,41000,21000,33.87,16,19,3,No,Q1,Mar-23
+MRPL-1361,17-04-2024,30-05-2024,Ceramic,RAK Ceramics,Delhi,Rajesh Kumar,Gunning Mix,Unshaped,17,2600,1500,44200,25500,18700,42.31,19,43,24,No,Q2,Apr-24
+MRPL-1362,26-06-2023,09-08-2023,Power,Tata Power,Mumbai,Sunita Rao,Mortar,Unshaped,95,1600,950,152000,90250,61750,40.62,20,44,24,No,Q2,Jun-23
+MRPL-1363,26-09-2024,14-11-2024,Iron & Steel,Tata Steel,Export-Africa,Rajesh Kumar,Mortar,Unshaped,162,1600,950,259200,153900,105300,40.62,21,49,28,No,Q3,Sep-24
+MRPL-1364,05-03-2024,06-04-2024,Power,Adani Power,Delhi,Priya Singh,Low Cement Castable,Unshaped,56,3800,2300,212800,128800,84000,39.47,30,32,2,No,Q1,Mar-24
+MRPL-1365,11-05-2024,15-06-2024,Non-Ferrous,Vedanta,Vizag,Priya Singh,Magnesia Brick,Shaped,93,5500,3600,511500,334800,176700,34.55,30,35,5,No,Q2,May-24
+MRPL-1366,15-10-2023,24-11-2023,Cement,Dalmia Cement,Ahmedabad,Amit Sharma,High Alumina Brick,Shaped,26,4200,2800,109200,72800,36400,33.33,29,40,11,No,Q4,Oct-23
+MRPL-1367,30-09-2023,03-11-2023,Cement,ACC,Delhi,Sunita Rao,Fireclay Brick,Shaped,141,2800,1800,394800,253800,141000,35.71,15,34,19,No,Q3,Sep-23
+MRPL-1368,27-06-2023,02-08-2023,Fertilizer,Coromandel,Ranchi,Amit Sharma,Chrome Magnesia Brick,Shaped,50,6200,4100,310000,205000,105000,33.87,21,36,15,No,Q2,Jun-23
+MRPL-1369,31-07-2024,10-09-2024,Iron & Steel,SAIL,Mumbai,Sanjay Tiwari,Plastic Refractory,Unshaped,41,2900,1750,118900,71750,47150,39.66,20,41,21,No,Q3,Jul-24
+MRPL-1370,03-04-2023,08-05-2023,Fertilizer,IFFCO,Pune,Priya Singh,Plastic Refractory,Unshaped,19,2900,1750,55100,33250,21850,39.66,21,35,14,No,Q2,Apr-23
+MRPL-1371,14-05-2023,26-06-2023,Iron & Steel,RINL,Ahmedabad,Amit Sharma,Low Cement Castable,Unshaped,92,3800,2300,349600,211600,138000,39.47,19,43,24,No,Q2,May-23
+MRPL-1372,26-05-2023,17-07-2023,Glass,Saint Gobain,Mumbai,Vikram Patel,Low Cement Castable,Unshaped,33,3800,2300,125400,75900,49500,39.47,30,52,22,No,Q2,May-23
+MRPL-1373,11-12-2023,04-01-2024,Cement,Shree Cement,Surat,Vikram Patel,Silica Brick,Shaped,113,3100,2000,350300,226000,124300,35.48,24,24,0,Yes,Q4,Dec-23
+MRPL-1374,29-07-2024,25-08-2024,Fertilizer,Chambal Fertilizers,Bhopal,Rajesh Kumar,Refractory Coating,Unshaped,182,2100,1200,382200,218400,163800,42.86,25,27,2,No,Q3,Jul-24
+MRPL-1375,02-01-2023,19-02-2023,Non-Ferrous,Vedanta,Pune,Rajesh Kumar,Magnesia Brick,Shaped,184,5500,3600,1012000,662400,349600,34.55,26,48,22,No,Q1,Jan-23
+MRPL-1376,18-09-2024,17-10-2024,Fertilizer,Chambal Fertilizers,Jamshedpur,Sanjay Tiwari,Fireclay Brick,Shaped,61,2800,1800,170800,109800,61000,35.71,17,29,12,No,Q3,Sep-24
+MRPL-1377,01-04-2023,04-05-2023,Iron & Steel,SAIL,Ahmedabad,Rajesh Kumar,Fireclay Brick,Shaped,186,2800,1800,520800,334800,186000,35.71,24,33,9,No,Q2,Apr-23
+MRPL-1378,21-04-2023,05-05-2023,Iron & Steel,JSW Steel,Surat,Amit Sharma,Fireclay Brick,Shaped,189,2800,1800,529200,340200,189000,35.71,14,14,0,Yes,Q2,Apr-23
+MRPL-1379,23-01-2024,05-03-2024,Cement,Shree Cement,Export-Africa,Priya Singh,Gunning Mix,Unshaped,94,2600,1500,244400,141000,103400,42.31,26,42,16,No,Q1,Jan-24
+MRPL-1380,04-02-2023,23-02-2023,Petrochemical,HPCL,Bhopal,Deepak Joshi,Fireclay Brick,Shaped,80,2800,1800,224000,144000,80000,35.71,14,19,5,No,Q1,Feb-23
+MRPL-1381,14-06-2023,12-07-2023,Iron & Steel,Tata Steel,Ahmedabad,Neha Gupta,High Alumina Brick,Shaped,192,4200,2800,806400,537600,268800,33.33,16,28,12,No,Q2,Jun-23
+MRPL-1382,22-12-2024,04-02-2025,Ceramic,Orient Bell,Jamshedpur,Neha Gupta,Silica Brick,Shaped,16,3100,2000,49600,32000,17600,35.48,27,44,17,No,Q4,Dec-24
+MRPL-1383,14-07-2023,21-08-2023,Iron & Steel,JSW Steel,Mumbai,Amit Sharma,Gunning Mix,Unshaped,109,2600,1500,283400,163500,119900,42.31,22,38,16,No,Q3,Jul-23
+MRPL-1384,17-05-2024,07-06-2024,Iron & Steel,Jindal Steel,Mumbai,Vikram Patel,High Alumina Brick,Shaped,44,4200,2800,184800,123200,61600,33.33,15,21,6,No,Q2,May-24
+MRPL-1385,10-04-2023,02-05-2023,Iron & Steel,RINL,Ranchi,Priya Singh,Silica Brick,Shaped,11,3100,2000,34100,22000,12100,35.48,20,22,2,No,Q2,Apr-23
+MRPL-1386,12-02-2024,30-03-2024,Non-Ferrous,BALCO,Ranchi,Amit Sharma,Magnesia Brick,Shaped,125,5500,3600,687500,450000,237500,34.55,29,47,18,No,Q1,Feb-24
+MRPL-1387,01-04-2024,02-05-2024,Iron & Steel,Jindal Steel,Ahmedabad,Amit Sharma,Gunning Mix,Unshaped,16,2600,1500,41600,24000,17600,42.31,22,31,9,No,Q2,Apr-24
+MRPL-1388,14-12-2024,31-12-2024,Cement,UltraTech Cement,Jamshedpur,Rajesh Kumar,Silica Brick,Shaped,241,3100,2000,747100,482000,265100,35.48,17,17,0,Yes,Q4,Dec-24
+MRPL-1389,01-02-2024,24-03-2024,Non-Ferrous,Sterlite,Chennai,Rajesh Kumar,Plastic Refractory,Unshaped,138,2900,1750,400200,241500,158700,39.66,27,52,25,No,Q1,Feb-24
+MRPL-1390,22-03-2023,18-05-2023,Power,NPCIL,Export-Africa,Priya Singh,Plastic Refractory,Unshaped,106,2900,1750,307400,185500,121900,39.66,15,57,42,No,Q1,Mar-23
+MRPL-1391,21-06-2023,11-07-2023,Power,Tata Power,Vizag,Rajesh Kumar,High Alumina Brick,Shaped,59,4200,2800,247800,165200,82600,33.33,20,20,0,Yes,Q2,Jun-23
+MRPL-1392,04-10-2024,31-10-2024,Iron & Steel,Tata Steel,Hyderabad,Sanjay Tiwari,Insulation Brick,Shaped,57,1900,1200,108300,68400,39900,36.84,22,27,5,No,Q4,Oct-24
+MRPL-1393,30-11-2023,08-01-2024,Ceramic,Orient Bell,Hyderabad,Priya Singh,High Alumina Brick,Shaped,103,4200,2800,432600,288400,144200,33.33,30,39,9,No,Q4,Nov-23
+MRPL-1394,05-03-2024,02-04-2024,Ceramic,Orient Bell,Jamshedpur,Vikram Patel,Insulation Brick,Shaped,33,1900,1200,62700,39600,23100,36.84,27,28,1,No,Q1,Mar-24
+MRPL-1395,02-07-2024,03-08-2024,Iron & Steel,JSW Steel,Jamshedpur,Deepak Joshi,High Alumina Brick,Shaped,93,4200,2800,390600,260400,130200,33.33,27,32,5,No,Q3,Jul-24
+MRPL-1396,10-10-2023,13-11-2023,Cement,Shree Cement,Jamshedpur,Rajesh Kumar,Plastic Refractory,Unshaped,149,2900,1750,432100,260750,171350,39.66,18,34,16,No,Q4,Oct-23
+MRPL-1397,20-02-2023,14-04-2023,Power,Adani Power,Hyderabad,Sunita Rao,Low Cement Castable,Unshaped,195,3800,2300,741000,448500,292500,39.47,29,53,24,No,Q1,Feb-23
+MRPL-1398,18-05-2024,26-06-2024,Iron & Steel,SAIL,Ahmedabad,Amit Sharma,Low Cement Castable,Unshaped,183,3800,2300,695400,420900,274500,39.47,17,39,22,No,Q2,May-24
+MRPL-1399,02-03-2024,19-03-2024,Iron & Steel,SAIL,Bhopal,Amit Sharma,Refractory Coating,Unshaped,159,2100,1200,333900,190800,143100,42.86,16,17,1,No,Q1,Mar-24
+MRPL-1400,27-02-2023,18-03-2023,Cement,Dalmia Cement,Bhopal,Neha Gupta,Refractory Coating,Unshaped,136,2100,1200,285600,163200,122400,42.86,19,19,0,Yes,Q1,Feb-23
+MRPL-1401,30-01-2023,14-03-2023,Iron & Steel,RINL,Vizag,Neha Gupta,Gunning Mix,Unshaped,49,2600,1500,127400,73500,53900,42.31,20,43,23,No,Q1,Jan-23
+MRPL-1402,05-01-2024,28-01-2024,Petrochemical,ONGC,Mumbai,Rajesh Kumar,Fireclay Brick,Shaped,185,2800,1800,518000,333000,185000,35.71,20,23,3,No,Q1,Jan-24
+MRPL-1403,05-09-2023,18-10-2023,Cement,UltraTech Cement,Hyderabad,Sunita Rao,Plastic Refractory,Unshaped,100,2900,1750,290000,175000,115000,39.66,29,43,14,No,Q3,Sep-23
+MRPL-1404,22-09-2023,14-10-2023,Cement,Ambuja Cement,Raipur,Amit Sharma,Plastic Refractory,Unshaped,196,2900,1750,568400,343000,225400,39.66,16,22,6,No,Q3,Sep-23
+MRPL-1405,08-08-2023,16-09-2023,Iron & Steel,RINL,Ranchi,Deepak Joshi,Fireclay Brick,Shaped,61,2800,1800,170800,109800,61000,35.71,21,39,18,No,Q3,Aug-23
+MRPL-1406,16-05-2023,18-06-2023,Iron & Steel,JSW Steel,Mumbai,Priya Singh,Plastic Refractory,Unshaped,170,2900,1750,493000,297500,195500,39.66,19,33,14,No,Q2,May-23
+MRPL-1407,27-12-2024,28-01-2025,Glass,Borosil,Jamshedpur,Deepak Joshi,Silica Brick,Shaped,233,3100,2000,722300,466000,256300,35.48,22,32,10,No,Q4,Dec-24
+MRPL-1408,24-11-2024,02-01-2025,Ceramic,Somany Ceramics,Pune,Priya Singh,Mortar,Unshaped,190,1600,950,304000,180500,123500,40.62,26,39,13,No,Q4,Nov-24
+MRPL-1409,02-11-2023,29-11-2023,Iron & Steel,RINL,Nagpur,Vikram Patel,Plastic Refractory,Unshaped,248,2900,1750,719200,434000,285200,39.66,17,27,10,No,Q4,Nov-23
+MRPL-1410,29-12-2024,22-01-2025,Iron & Steel,SAIL,Ahmedabad,Amit Sharma,Refractory Coating,Unshaped,235,2100,1200,493500,282000,211500,42.86,23,24,1,No,Q4,Dec-24
+MRPL-1411,24-11-2023,30-12-2023,Iron & Steel,RINL,Vizag,Priya Singh,High Alumina Brick,Shaped,247,4200,2800,1037400,691600,345800,33.33,18,36,18,No,Q4,Nov-23
+MRPL-1412,06-02-2023,03-03-2023,Iron & Steel,Jindal Steel,Pune,Priya Singh,Ramming Mass,Unshaped,154,2200,1300,338800,200200,138600,40.91,20,25,5,No,Q1,Feb-23
+MRPL-1413,18-11-2024,24-12-2024,Non-Ferrous,NALCO,Raipur,Neha Gupta,Insulation Brick,Shaped,132,1900,1200,250800,158400,92400,36.84,30,36,6,No,Q4,Nov-24
+MRPL-1414,22-09-2023,05-11-2023,Petrochemical,ONGC,Delhi,Rajesh Kumar,Silica Brick,Shaped,190,3100,2000,589000,380000,209000,35.48,19,44,25,No,Q3,Sep-23
+MRPL-1415,11-11-2023,11-12-2023,Non-Ferrous,Hindalco,Delhi,Amit Sharma,Refractory Coating,Unshaped,154,2100,1200,323400,184800,138600,42.86,24,30,6,No,Q4,Nov-23
+MRPL-1416,11-10-2024,08-11-2024,Iron & Steel,JSW Steel,Ranchi,Priya Singh,Mortar,Unshaped,212,1600,950,339200,201400,137800,40.62,16,28,12,No,Q4,Oct-24
+MRPL-1417,25-02-2023,16-03-2023,Petrochemical,Reliance,Hyderabad,Amit Sharma,Insulation Brick,Shaped,43,1900,1200,81700,51600,30100,36.84,18,19,1,No,Q1,Feb-23
+MRPL-1418,14-05-2024,07-06-2024,Cement,ACC,Ahmedabad,Deepak Joshi,Gunning Mix,Unshaped,90,2600,1500,234000,135000,99000,42.31,19,24,5,No,Q2,May-24
+MRPL-1419,22-06-2023,21-07-2023,Non-Ferrous,Hindalco,Pune,Deepak Joshi,Magnesia Brick,Shaped,152,5500,3600,836000,547200,288800,34.55,19,29,10,No,Q2,Jun-23
+MRPL-1420,18-02-2024,27-03-2024,Glass,AGI Glaspac,Jamshedpur,Sunita Rao,Fireclay Brick,Shaped,114,2800,1800,319200,205200,114000,35.71,29,38,9,No,Q1,Feb-24
+MRPL-1421,27-06-2024,27-07-2024,Iron & Steel,JSW Steel,Ahmedabad,Neha Gupta,Insulation Brick,Shaped,53,1900,1200,100700,63600,37100,36.84,14,30,16,No,Q2,Jun-24
+MRPL-1422,16-04-2023,29-05-2023,Iron & Steel,SAIL,Surat,Amit Sharma,Fireclay Brick,Shaped,103,2800,1800,288400,185400,103000,35.71,30,43,13,No,Q2,Apr-23
+MRPL-1423,16-06-2024,21-07-2024,Iron & Steel,SAIL,Pune,Priya Singh,High Alumina Brick,Shaped,157,4200,2800,659400,439600,219800,33.33,30,35,5,No,Q2,Jun-24
+MRPL-1424,12-07-2023,18-08-2023,Cement,Shree Cement,Export-Africa,Amit Sharma,Silica Brick,Shaped,47,3100,2000,145700,94000,51700,35.48,26,37,11,No,Q3,Jul-23
+MRPL-1425,23-06-2023,04-08-2023,Iron & Steel,JSW Steel,Surat,Vikram Patel,Fireclay Brick,Shaped,36,2800,1800,100800,64800,36000,35.71,25,42,17,No,Q2,Jun-23
+MRPL-1426,30-09-2024,31-10-2024,Non-Ferrous,Vedanta,Export-Africa,Deepak Joshi,Magnesia Brick,Shaped,17,5500,3600,93500,61200,32300,34.55,15,31,16,No,Q3,Sep-24
+MRPL-1427,25-01-2024,26-02-2024,Non-Ferrous,BALCO,Surat,Priya Singh,High Alumina Brick,Shaped,36,4200,2800,151200,100800,50400,33.33,22,32,10,No,Q1,Jan-24
+MRPL-1428,08-11-2024,11-12-2024,Non-Ferrous,BALCO,Nagpur,Amit Sharma,Insulation Brick,Shaped,41,1900,1200,77900,49200,28700,36.84,30,33,3,No,Q4,Nov-24
+MRPL-1429,24-09-2024,17-10-2024,Non-Ferrous,BALCO,Ranchi,Vikram Patel,Magnesia Brick,Shaped,35,5500,3600,192500,126000,66500,34.55,23,23,0,Yes,Q3,Sep-24
+MRPL-1430,19-06-2024,02-08-2024,Glass,Saint Gobain,Jamshedpur,Deepak Joshi,Gunning Mix,Unshaped,56,2600,1500,145600,84000,61600,42.31,25,44,19,No,Q2,Jun-24
+MRPL-1431,05-12-2024,02-01-2025,Cement,Shree Cement,Raipur,Sanjay Tiwari,High Alumina Brick,Shaped,176,4200,2800,739200,492800,246400,33.33,24,28,4,No,Q4,Dec-24
+MRPL-1432,02-06-2023,02-07-2023,Iron & Steel,RINL,Ranchi,Sunita Rao,High Alumina Brick,Shaped,28,4200,2800,117600,78400,39200,33.33,30,30,0,Yes,Q2,Jun-23
+MRPL-1433,31-10-2023,28-11-2023,Non-Ferrous,Hindalco,Nagpur,Priya Singh,Silica Brick,Shaped,99,3100,2000,306900,198000,108900,35.48,28,28,0,Yes,Q4,Oct-23
+MRPL-1434,24-11-2024,10-01-2025,Iron & Steel,SAIL,Ranchi,Amit Sharma,High Alumina Brick,Shaped,117,4200,2800,491400,327600,163800,33.33,27,47,20,No,Q4,Nov-24
+MRPL-1435,24-06-2023,30-07-2023,Iron & Steel,Tata Steel,Ranchi,Sunita Rao,High Alumina Brick,Shaped,89,4200,2800,373800,249200,124600,33.33,25,36,11,No,Q2,Jun-23
+MRPL-1436,07-07-2023,09-08-2023,Fertilizer,Chambal Fertilizers,Delhi,Neha Gupta,Refractory Coating,Unshaped,34,2100,1200,71400,40800,30600,42.86,26,33,7,No,Q3,Jul-23
+MRPL-1437,26-10-2024,12-11-2024,Fertilizer,Coromandel,Surat,Deepak Joshi,Mortar,Unshaped,64,1600,950,102400,60800,41600,40.62,17,17,0,Yes,Q4,Oct-24
+MRPL-1438,09-05-2024,06-06-2024,Non-Ferrous,NALCO,Delhi,Sanjay Tiwari,Fireclay Brick,Shaped,150,2800,1800,420000,270000,150000,35.71,28,28,0,Yes,Q2,May-24
+MRPL-1439,14-05-2024,19-06-2024,Non-Ferrous,Hindalco,Mumbai,Priya Singh,Plastic Refractory,Unshaped,33,2900,1750,95700,57750,37950,39.66,27,36,9,No,Q2,May-24
+MRPL-1440,25-11-2024,10-01-2025,Iron & Steel,JSW Steel,Ahmedabad,Sunita Rao,Refractory Coating,Unshaped,191,2100,1200,401100,229200,171900,42.86,21,46,25,No,Q4,Nov-24
+MRPL-1441,08-11-2024,11-12-2024,Non-Ferrous,Sterlite,Raipur,Rajesh Kumar,Plastic Refractory,Unshaped,263,2900,1750,762700,460250,302450,39.66,21,33,12,No,Q4,Nov-24
+MRPL-1442,19-09-2024,20-10-2024,Cement,Dalmia Cement,Ranchi,Neha Gupta,Gunning Mix,Unshaped,18,2600,1500,46800,27000,19800,42.31,14,31,17,No,Q3,Sep-24
+MRPL-1443,18-05-2024,15-06-2024,Ceramic,Somany Ceramics,Ranchi,Rajesh Kumar,Mortar,Unshaped,87,1600,950,139200,82650,56550,40.62,21,28,7,No,Q2,May-24
+MRPL-1444,17-02-2024,13-03-2024,Fertilizer,Deepak Fertilizers,Chennai,Sunita Rao,Chrome Magnesia Brick,Shaped,65,6200,4100,403000,266500,136500,33.87,16,25,9,No,Q1,Feb-24
+MRPL-1445,02-05-2023,16-05-2023,Cement,Shree Cement,Ranchi,Priya Singh,Low Cement Castable,Unshaped,132,3800,2300,501600,303600,198000,39.47,14,14,0,Yes,Q2,May-23
+MRPL-1446,10-09-2024,16-10-2024,Cement,UltraTech Cement,Raipur,Neha Gupta,Chrome Magnesia Brick,Shaped,163,6200,4100,1010600,668300,342300,33.87,23,36,13,No,Q3,Sep-24
+MRPL-1447,10-04-2024,26-05-2024,Power,NTPC,Ahmedabad,Neha Gupta,Ramming Mass,Unshaped,89,2200,1300,195800,115700,80100,40.91,29,46,17,No,Q2,Apr-24
+MRPL-1448,30-12-2023,03-02-2024,Non-Ferrous,Hindalco,Delhi,Rajesh Kumar,Low Cement Castable,Unshaped,230,3800,2300,874000,529000,345000,39.47,23,35,12,No,Q4,Dec-23
+MRPL-1449,24-02-2024,08-04-2024,Power,NPCIL,Export-Africa,Priya Singh,High Alumina Brick,Shaped,32,4200,2800,134400,89600,44800,33.33,22,44,22,No,Q1,Feb-24
+MRPL-1450,21-04-2023,18-05-2023,Iron & Steel,Tata Steel,Bhopal,Deepak Joshi,Gunning Mix,Unshaped,198,2600,1500,514800,297000,217800,42.31,27,27,0,Yes,Q2,Apr-23
+MRPL-1451,18-05-2023,12-06-2023,Ceramic,Orient Bell,Bhopal,Sanjay Tiwari,Magnesia Brick,Shaped,132,5500,3600,726000,475200,250800,34.55,14,25,11,No,Q2,May-23
+MRPL-1452,01-07-2023,07-08-2023,Glass,Piramal Glass,Bhopal,Deepak Joshi,Plastic Refractory,Unshaped,182,2900,1750,527800,318500,209300,39.66,19,37,18,No,Q3,Jul-23
+MRPL-1453,26-11-2023,30-12-2023,Petrochemical,Reliance,Nagpur,Vikram Patel,Magnesia Brick,Shaped,184,5500,3600,1012000,662400,349600,34.55,26,34,8,No,Q4,Nov-23
+MRPL-1454,08-04-2024,04-05-2024,Fertilizer,Chambal Fertilizers,Hyderabad,Sanjay Tiwari,Silica Brick,Shaped,39,3100,2000,120900,78000,42900,35.48,18,26,8,No,Q2,Apr-24
+MRPL-1455,20-07-2024,12-08-2024,Power,Adani Power,Raipur,Deepak Joshi,Refractory Coating,Unshaped,166,2100,1200,348600,199200,149400,42.86,20,23,3,No,Q3,Jul-24
+MRPL-1456,27-10-2024,08-12-2024,Iron & Steel,Tata Steel,Ahmedabad,Sanjay Tiwari,Refractory Coating,Unshaped,69,2100,1200,144900,82800,62100,42.86,30,42,12,No,Q4,Oct-24
+MRPL-1457,19-08-2024,01-10-2024,Non-Ferrous,Vedanta,Delhi,Vikram Patel,Refractory Coating,Unshaped,151,2100,1200,317100,181200,135900,42.86,27,43,16,No,Q3,Aug-24
+MRPL-1458,26-01-2023,13-02-2023,Glass,HNG Glass,Vizag,Vikram Patel,Mortar,Unshaped,102,1600,950,163200,96900,66300,40.62,18,18,0,Yes,Q1,Jan-23
+MRPL-1459,30-11-2024,08-01-2025,Non-Ferrous,Hindalco,Vizag,Sanjay Tiwari,Silica Brick,Shaped,95,3100,2000,294500,190000,104500,35.48,18,39,21,No,Q4,Nov-24
+MRPL-1460,08-04-2024,17-05-2024,Iron & Steel,RINL,Vizag,Rajesh Kumar,Gunning Mix,Unshaped,31,2600,1500,80600,46500,34100,42.31,21,39,18,No,Q2,Apr-24
+MRPL-1461,18-02-2023,26-03-2023,Non-Ferrous,Vedanta,Raipur,Sunita Rao,Gunning Mix,Unshaped,102,2600,1500,265200,153000,112200,42.31,26,36,10,No,Q1,Feb-23
+MRPL-1462,27-07-2023,14-09-2023,Fertilizer,NFL,Mumbai,Deepak Joshi,Plastic Refractory,Unshaped,163,2900,1750,472700,285250,187450,39.66,28,49,21,No,Q3,Jul-23
+MRPL-1463,18-07-2023,17-08-2023,Iron & Steel,RINL,Raipur,Rajesh Kumar,Plastic Refractory,Unshaped,80,2900,1750,232000,140000,92000,39.66,28,30,2,No,Q3,Jul-23
+MRPL-1464,11-02-2023,17-03-2023,Fertilizer,Deepak Fertilizers,Kolkata,Rajesh Kumar,Fireclay Brick,Shaped,114,2800,1800,319200,205200,114000,35.71,22,34,12,No,Q1,Feb-23
+MRPL-1465,22-04-2024,10-05-2024,Iron & Steel,SAIL,Ranchi,Rajesh Kumar,Chrome Magnesia Brick,Shaped,186,6200,4100,1153200,762600,390600,33.87,18,18,0,Yes,Q2,Apr-24
+MRPL-1466,05-11-2023,30-11-2023,Iron & Steel,RINL,Mumbai,Neha Gupta,Plastic Refractory,Unshaped,179,2900,1750,519100,313250,205850,39.66,25,25,0,Yes,Q4,Nov-23
+MRPL-1467,01-06-2024,10-07-2024,Glass,Saint Gobain,Chennai,Vikram Patel,Plastic Refractory,Unshaped,45,2900,1750,130500,78750,51750,39.66,27,39,12,No,Q2,Jun-24
+MRPL-1468,06-12-2023,30-12-2023,Power,NPCIL,Chennai,Sunita Rao,Silica Brick,Shaped,133,3100,2000,412300,266000,146300,35.48,23,24,1,No,Q4,Dec-23
+MRPL-1469,21-12-2023,28-01-2024,Fertilizer,NFL,Ranchi,Rajesh Kumar,Plastic Refractory,Unshaped,164,2900,1750,475600,287000,188600,39.66,21,38,17,No,Q4,Dec-23
+MRPL-1470,27-04-2023,31-05-2023,Non-Ferrous,Vedanta,Nagpur,Priya Singh,High Alumina Brick,Shaped,103,4200,2800,432600,288400,144200,33.33,22,34,12,No,Q2,Apr-23
+MRPL-1471,04-06-2024,03-07-2024,Non-Ferrous,Vedanta,Ranchi,Vikram Patel,Chrome Magnesia Brick,Shaped,119,6200,4100,737800,487900,249900,33.87,29,29,0,Yes,Q2,Jun-24
+MRPL-1472,21-06-2023,22-07-2023,Iron & Steel,JSW Steel,Raipur,Sanjay Tiwari,Silica Brick,Shaped,142,3100,2000,440200,284000,156200,35.48,14,31,17,No,Q2,Jun-23
+MRPL-1473,20-12-2024,31-01-2025,Iron & Steel,JSW Steel,Hyderabad,Amit Sharma,Insulation Brick,Shaped,267,1900,1200,507300,320400,186900,36.84,27,42,15,No,Q4,Dec-24
+MRPL-1474,06-12-2023,22-12-2023,Petrochemical,BPCL,Nagpur,Rajesh Kumar,Insulation Brick,Shaped,19,1900,1200,36100,22800,13300,36.84,16,16,0,Yes,Q4,Dec-23
+MRPL-1475,22-09-2023,27-10-2023,Iron & Steel,RINL,Delhi,Neha Gupta,Plastic Refractory,Unshaped,109,2900,1750,316100,190750,125350,39.66,26,35,9,No,Q3,Sep-23
+MRPL-1476,01-07-2024,05-08-2024,Non-Ferrous,NALCO,Mumbai,Sunita Rao,Ramming Mass,Unshaped,6,2200,1300,13200,7800,5400,40.91,16,35,19,No,Q3,Jul-24
+MRPL-1477,29-05-2024,09-07-2024,Glass,HNG Glass,Ranchi,Amit Sharma,Insulation Brick,Shaped,32,1900,1200,60800,38400,22400,36.84,23,41,18,No,Q2,May-24
+MRPL-1478,07-11-2024,06-12-2024,Iron & Steel,Jindal Steel,Vizag,Priya Singh,Silica Brick,Shaped,16,3100,2000,49600,32000,17600,35.48,29,29,0,Yes,Q4,Nov-24
+MRPL-1479,11-10-2024,19-11-2024,Power,CESC,Hyderabad,Amit Sharma,Insulation Brick,Shaped,56,1900,1200,106400,67200,39200,36.84,23,39,16,No,Q4,Oct-24
+MRPL-1480,12-02-2023,24-03-2023,Petrochemical,Reliance,Raipur,Rajesh Kumar,Low Cement Castable,Unshaped,6,3800,2300,22800,13800,9000,39.47,26,40,14,No,Q1,Feb-23
+MRPL-1481,23-10-2024,10-11-2024,Power,Adani Power,Chennai,Amit Sharma,Silica Brick,Shaped,187,3100,2000,579700,374000,205700,35.48,18,18,0,Yes,Q4,Oct-24
+MRPL-1482,03-08-2024,15-09-2024,Iron & Steel,Tata Steel,Delhi,Sunita Rao,Gunning Mix,Unshaped,18,2600,1500,46800,27000,19800,42.31,28,43,15,No,Q3,Aug-24
+MRPL-1483,17-08-2024,16-09-2024,Power,Adani Power,Delhi,Rajesh Kumar,Refractory Coating,Unshaped,129,2100,1200,270900,154800,116100,42.86,24,30,6,No,Q3,Aug-24
+MRPL-1484,18-07-2023,25-08-2023,Iron & Steel,RINL,Pune,Rajesh Kumar,High Alumina Brick,Shaped,86,4200,2800,361200,240800,120400,33.33,29,38,9,No,Q3,Jul-23
+MRPL-1485,09-01-2024,07-02-2024,Cement,ACC,Jamshedpur,Vikram Patel,Refractory Coating,Unshaped,85,2100,1200,178500,102000,76500,42.86,27,29,2,No,Q1,Jan-24
+MRPL-1486,04-01-2024,20-02-2024,Iron & Steel,Jindal Steel,Surat,Amit Sharma,Fireclay Brick,Shaped,39,2800,1800,109200,70200,39000,35.71,24,47,23,No,Q1,Jan-24
+MRPL-1487,22-04-2023,29-05-2023,Power,Adani Power,Vizag,Priya Singh,Ramming Mass,Unshaped,49,2200,1300,107800,63700,44100,40.91,16,37,21,No,Q2,Apr-23
+MRPL-1488,03-10-2024,11-11-2024,Iron & Steel,SAIL,Chennai,Deepak Joshi,Chrome Magnesia Brick,Shaped,33,6200,4100,204600,135300,69300,33.87,16,39,23,No,Q4,Oct-24
+MRPL-1489,06-08-2023,11-09-2023,Iron & Steel,Jindal Steel,Jamshedpur,Deepak Joshi,Chrome Magnesia Brick,Shaped,14,6200,4100,86800,57400,29400,33.87,22,36,14,No,Q3,Aug-23
+MRPL-1490,17-08-2023,09-09-2023,Ceramic,Somany Ceramics,Vizag,Amit Sharma,Refractory Coating,Unshaped,155,2100,1200,325500,186000,139500,42.86,23,23,0,Yes,Q3,Aug-23
+MRPL-1491,02-09-2023,10-10-2023,Cement,Dalmia Cement,Ahmedabad,Rajesh Kumar,Magnesia Brick,Shaped,162,5500,3600,891000,583200,307800,34.55,19,38,19,No,Q3,Sep-23
+MRPL-1492,06-11-2024,30-12-2024,Power,CESC,Kolkata,Sanjay Tiwari,Gunning Mix,Unshaped,57,2600,1500,148200,85500,62700,42.31,29,54,25,No,Q4,Nov-24
+MRPL-1493,28-08-2023,28-09-2023,Cement,UltraTech Cement,Chennai,Amit Sharma,Magnesia Brick,Shaped,15,5500,3600,82500,54000,28500,34.55,20,31,11,No,Q3,Aug-23
+MRPL-1494,10-02-2023,06-03-2023,Ceramic,H&R Johnson,Bhopal,Neha Gupta,Mortar,Unshaped,171,1600,950,273600,162450,111150,40.62,24,24,0,Yes,Q1,Feb-23
+MRPL-1495,28-06-2023,30-07-2023,Non-Ferrous,Sterlite,Pune,Vikram Patel,Refractory Coating,Unshaped,101,2100,1200,212100,121200,90900,42.86,26,32,6,No,Q2,Jun-23
+MRPL-1496,17-08-2023,18-09-2023,Power,Tata Power,Pune,Sanjay Tiwari,Chrome Magnesia Brick,Shaped,137,6200,4100,849400,561700,287700,33.87,26,32,6,No,Q3,Aug-23
+MRPL-1497,07-01-2023,03-02-2023,Petrochemical,ONGC,Vizag,Neha Gupta,Mortar,Unshaped,133,1600,950,212800,126350,86450,40.62,18,27,9,No,Q1,Jan-23
+MRPL-1498,11-07-2023,19-08-2023,Iron & Steel,SAIL,Nagpur,Amit Sharma,Chrome Magnesia Brick,Shaped,45,6200,4100,279000,184500,94500,33.87,25,39,14,No,Q3,Jul-23
+MRPL-1499,27-04-2023,05-06-2023,Non-Ferrous,NALCO,Chennai,Neha Gupta,Insulation Brick,Shaped,128,1900,1200,243200,153600,89600,36.84,29,39,10,No,Q2,Apr-23
+MRPL-1500,14-02-2023,06-03-2023,Iron & Steel,Jindal Steel,Ranchi,Rajesh Kumar,Insulation Brick,Shaped,37,1900,1200,70300,44400,25900,36.84,19,20,1,No,Q1,Feb-23
+MRPL-1501,04-07-2023,13-08-2023,Non-Ferrous,BALCO,Kolkata,Rajesh Kumar,Chrome Magnesia Brick,Shaped,137,6200,4100,849400,561700,287700,33.87,26,40,14,No,Q3,Jul-23
+MRPL-1502,10-08-2023,30-09-2023,Fertilizer,Chambal Fertilizers,Surat,Sanjay Tiwari,Insulation Brick,Shaped,119,1900,1200,226100,142800,83300,36.84,29,51,22,No,Q3,Aug-23
+MRPL-1503,06-07-2023,10-08-2023,Power,NPCIL,Jamshedpur,Deepak Joshi,Magnesia Brick,Shaped,164,5500,3600,902000,590400,311600,34.55,30,35,5,No,Q3,Jul-23
+MRPL-1504,23-01-2024,10-02-2024,Iron & Steel,RINL,Jamshedpur,Rajesh Kumar,Mortar,Unshaped,103,1600,950,164800,97850,66950,40.62,18,18,0,Yes,Q1,Jan-24
+MRPL-1505,21-09-2024,20-10-2024,Iron & Steel,JSW Steel,Jamshedpur,Rajesh Kumar,Gunning Mix,Unshaped,158,2600,1500,410800,237000,173800,42.31,15,29,14,No,Q3,Sep-24
+MRPL-1506,06-07-2024,13-08-2024,Power,NPCIL,Bhopal,Neha Gupta,High Alumina Brick,Shaped,5,4200,2800,21000,14000,7000,33.33,27,38,11,No,Q3,Jul-24
+MRPL-1507,08-05-2024,17-06-2024,Cement,Shree Cement,Raipur,Amit Sharma,Insulation Brick,Shaped,102,1900,1200,193800,122400,71400,36.84,25,40,15,No,Q2,May-24
+MRPL-1508,27-08-2023,03-10-2023,Glass,Borosil,Kolkata,Priya Singh,Magnesia Brick,Shaped,26,5500,3600,143000,93600,49400,34.55,23,37,14,No,Q3,Aug-23
+MRPL-1509,08-01-2023,07-02-2023,Petrochemical,HPCL,Chennai,Sunita Rao,Ramming Mass,Unshaped,152,2200,1300,334400,197600,136800,40.91,30,30,0,Yes,Q1,Jan-23
+MRPL-1510,20-04-2023,01-06-2023,Power,Adani Power,Chennai,Priya Singh,Refractory Coating,Unshaped,44,2100,1200,92400,52800,39600,42.86,27,42,15,No,Q2,Apr-23
+MRPL-1511,10-10-2023,24-11-2023,Power,CESC,Hyderabad,Amit Sharma,Plastic Refractory,Unshaped,247,2900,1750,716300,432250,284050,39.66,26,45,19,No,Q4,Oct-23
+MRPL-1512,17-09-2023,31-10-2023,Iron & Steel,RINL,Ahmedabad,Vikram Patel,Gunning Mix,Unshaped,83,2600,1500,215800,124500,91300,42.31,25,44,19,No,Q3,Sep-23
+MRPL-1513,17-12-2024,04-01-2025,Non-Ferrous,Hindalco,Delhi,Priya Singh,Insulation Brick,Shaped,63,1900,1200,119700,75600,44100,36.84,17,18,1,No,Q4,Dec-24
+MRPL-1514,13-10-2024,30-10-2024,Power,NTPC,Jamshedpur,Rajesh Kumar,Plastic Refractory,Unshaped,8,2900,1750,23200,14000,9200,39.66,16,17,1,No,Q4,Oct-24
+MRPL-1515,23-03-2023,25-04-2023,Power,Adani Power,Delhi,Amit Sharma,Low Cement Castable,Unshaped,160,3800,2300,608000,368000,240000,39.47,15,33,18,No,Q1,Mar-23
+MRPL-1516,03-09-2024,07-10-2024,Cement,Dalmia Cement,Nagpur,Amit Sharma,Plastic Refractory,Unshaped,19,2900,1750,55100,33250,21850,39.66,19,34,15,No,Q3,Sep-24
+MRPL-1517,04-02-2023,19-03-2023,Power,CESC,Ranchi,Amit Sharma,Fireclay Brick,Shaped,158,2800,1800,442400,284400,158000,35.71,30,43,13,No,Q1,Feb-23
+MRPL-1518,01-01-2023,20-01-2023,Non-Ferrous,Vedanta,Mumbai,Amit Sharma,Insulation Brick,Shaped,45,1900,1200,85500,54000,31500,36.84,16,19,3,No,Q1,Jan-23
+MRPL-1519,14-06-2024,24-07-2024,Glass,AGI Glaspac,Hyderabad,Vikram Patel,Refractory Coating,Unshaped,8,2100,1200,16800,9600,7200,42.86,16,40,24,No,Q2,Jun-24
+MRPL-1520,23-12-2023,18-01-2024,Iron & Steel,RINL,Ranchi,Sanjay Tiwari,Refractory Coating,Unshaped,128,2100,1200,268800,153600,115200,42.86,22,26,4,No,Q4,Dec-23
+MRPL-1521,25-09-2023,03-12-2023,Power,Tata Power,Export-Africa,Vikram Patel,Magnesia Brick,Shaped,49,5500,3600,269500,176400,93100,34.55,27,69,42,No,Q3,Sep-23
+MRPL-1522,09-06-2024,18-07-2024,Iron & Steel,SAIL,Pune,Sanjay Tiwari,Chrome Magnesia Brick,Shaped,70,6200,4100,434000,287000,147000,33.87,22,39,17,No,Q2,Jun-24
+MRPL-1523,14-04-2024,04-06-2024,Cement,ACC,Bhopal,Deepak Joshi,Plastic Refractory,Unshaped,179,2900,1750,519100,313250,205850,39.66,28,51,23,No,Q2,Apr-24
+MRPL-1524,10-10-2024,20-11-2024,Power,Adani Power,Delhi,Rajesh Kumar,Magnesia Brick,Shaped,84,5500,3600,462000,302400,159600,34.55,21,41,20,No,Q4,Oct-24
+MRPL-1525,27-09-2023,20-10-2023,Iron & Steel,JSW Steel,Raipur,Sunita Rao,Plastic Refractory,Unshaped,68,2900,1750,197200,119000,78200,39.66,23,23,0,Yes,Q3,Sep-23
+MRPL-1526,29-12-2023,22-01-2024,Cement,ACC,Raipur,Priya Singh,Low Cement Castable,Unshaped,82,3800,2300,311600,188600,123000,39.47,22,24,2,No,Q4,Dec-23
+MRPL-1527,05-09-2023,27-09-2023,Ceramic,Somany Ceramics,Surat,Amit Sharma,Magnesia Brick,Shaped,72,5500,3600,396000,259200,136800,34.55,20,22,2,No,Q3,Sep-23
+MRPL-1528,03-05-2023,15-06-2023,Iron & Steel,Tata Steel,Ahmedabad,Deepak Joshi,Chrome Magnesia Brick,Shaped,25,6200,4100,155000,102500,52500,33.87,29,43,14,No,Q2,May-23
+MRPL-1529,11-08-2024,09-09-2024,Iron & Steel,RINL,Ahmedabad,Amit Sharma,Magnesia Brick,Shaped,75,5500,3600,412500,270000,142500,34.55,29,29,0,Yes,Q3,Aug-24
+MRPL-1530,22-06-2024,15-08-2024,Fertilizer,Deepak Fertilizers,Chennai,Rajesh Kumar,Mortar,Unshaped,113,1600,950,180800,107350,73450,40.62,29,54,25,No,Q2,Jun-24
+MRPL-1531,04-05-2023,14-06-2023,Power,NPCIL,Ranchi,Priya Singh,Mortar,Unshaped,183,1600,950,292800,173850,118950,40.62,30,41,11,No,Q2,May-23
+MRPL-1532,14-04-2023,23-05-2023,Iron & Steel,Tata Steel,Nagpur,Amit Sharma,High Alumina Brick,Shaped,88,4200,2800,369600,246400,123200,33.33,25,39,14,No,Q2,Apr-23
+MRPL-1533,19-09-2024,14-10-2024,Petrochemical,BPCL,Pune,Amit Sharma,Chrome Magnesia Brick,Shaped,92,6200,4100,570400,377200,193200,33.87,25,25,0,Yes,Q3,Sep-24
+MRPL-1534,15-02-2024,14-03-2024,Power,Adani Power,Surat,Amit Sharma,Magnesia Brick,Shaped,76,5500,3600,418000,273600,144400,34.55,28,28,0,Yes,Q1,Feb-24
+MRPL-1535,22-07-2024,18-08-2024,Power,Adani Power,Surat,Deepak Joshi,High Alumina Brick,Shaped,115,4200,2800,483000,322000,161000,33.33,26,27,1,No,Q3,Jul-24
+MRPL-1536,26-05-2024,07-07-2024,Iron & Steel,JSW Steel,Vizag,Rajesh Kumar,Magnesia Brick,Shaped,39,5500,3600,214500,140400,74100,34.55,30,42,12,No,Q2,May-24
+MRPL-1537,18-02-2023,24-03-2023,Non-Ferrous,Sterlite,Pune,Neha Gupta,Ramming Mass,Unshaped,106,2200,1300,233200,137800,95400,40.91,17,34,17,No,Q1,Feb-23
+MRPL-1538,09-12-2023,09-01-2024,Iron & Steel,JSW Steel,Bhopal,Priya Singh,Silica Brick,Shaped,97,3100,2000,300700,194000,106700,35.48,25,31,6,No,Q4,Dec-23
+MRPL-1539,26-11-2024,29-12-2024,Power,Tata Power,Mumbai,Rajesh Kumar,Ramming Mass,Unshaped,220,2200,1300,484000,286000,198000,40.91,20,33,13,No,Q4,Nov-24
+MRPL-1540,14-05-2024,04-07-2024,Power,Adani Power,Ahmedabad,Sunita Rao,Silica Brick,Shaped,193,3100,2000,598300,386000,212300,35.48,28,51,23,No,Q2,May-24
+MRPL-1541,17-10-2024,28-11-2024,Iron & Steel,Tata Steel,Nagpur,Neha Gupta,Mortar,Unshaped,125,1600,950,200000,118750,81250,40.62,27,42,15,No,Q4,Oct-24
+MRPL-1542,18-11-2023,28-12-2023,Non-Ferrous,Hindalco,Delhi,Amit Sharma,Low Cement Castable,Unshaped,118,3800,2300,448400,271400,177000,39.47,23,40,17,No,Q4,Nov-23
+MRPL-1543,07-01-2024,15-03-2024,Iron & Steel,Jindal Steel,Export-Africa,Deepak Joshi,Ramming Mass,Unshaped,196,2200,1300,431200,254800,176400,40.91,30,68,38,No,Q1,Jan-24
+MRPL-1544,18-12-2024,04-01-2025,Cement,ACC,Kolkata,Sunita Rao,High Alumina Brick,Shaped,270,4200,2800,1134000,756000,378000,33.33,16,17,1,No,Q4,Dec-24
+MRPL-1545,27-01-2023,17-03-2023,Iron & Steel,Jindal Steel,Delhi,Vikram Patel,High Alumina Brick,Shaped,106,4200,2800,445200,296800,148400,33.33,30,49,19,No,Q1,Jan-23
+MRPL-1546,04-02-2024,29-02-2024,Fertilizer,IFFCO,Jamshedpur,Rajesh Kumar,Silica Brick,Shaped,84,3100,2000,260400,168000,92400,35.48,21,25,4,No,Q1,Feb-24
+MRPL-1547,24-06-2023,25-07-2023,Glass,Saint Gobain,Kolkata,Vikram Patel,Refractory Coating,Unshaped,12,2100,1200,25200,14400,10800,42.86,15,31,16,No,Q2,Jun-23
+MRPL-1548,15-07-2024,27-08-2024,Cement,Dalmia Cement,Bhopal,Sanjay Tiwari,Mortar,Unshaped,118,1600,950,188800,112100,76700,40.62,18,43,25,No,Q3,Jul-24
+MRPL-1549,13-10-2024,22-11-2024,Non-Ferrous,NALCO,Jamshedpur,Sunita Rao,Chrome Magnesia Brick,Shaped,205,6200,4100,1271000,840500,430500,33.87,27,40,13,No,Q4,Oct-24
+MRPL-1550,02-04-2023,01-05-2023,Non-Ferrous,Sterlite,Bhopal,Amit Sharma,Ramming Mass,Unshaped,118,2200,1300,259600,153400,106200,40.91,23,29,6,No,Q2,Apr-23
+MRPL-1551,20-05-2023,22-06-2023,Cement,UltraTech Cement,Mumbai,Vikram Patel,Silica Brick,Shaped,93,3100,2000,288300,186000,102300,35.48,23,33,10,No,Q2,May-23
+MRPL-1552,27-10-2023,07-12-2023,Power,NTPC,Pune,Deepak Joshi,Mortar,Unshaped,216,1600,950,345600,205200,140400,40.62,21,41,20,No,Q4,Oct-23
+MRPL-1553,13-09-2023,30-10-2023,Iron & Steel,RINL,Hyderabad,Priya Singh,Gunning Mix,Unshaped,46,2600,1500,119600,69000,50600,42.31,26,47,21,No,Q3,Sep-23
+MRPL-1554,19-09-2024,15-10-2024,Cement,ACC,Hyderabad,Vikram Patel,Low Cement Castable,Unshaped,182,3800,2300,691600,418600,273000,39.47,22,26,4,No,Q3,Sep-24
+MRPL-1555,24-10-2023,05-12-2023,Non-Ferrous,BALCO,Chennai,Rajesh Kumar,Mortar,Unshaped,45,1600,950,72000,42750,29250,40.62,28,42,14,No,Q4,Oct-23
+MRPL-1556,01-07-2024,20-07-2024,Cement,UltraTech Cement,Ahmedabad,Rajesh Kumar,Gunning Mix,Unshaped,10,2600,1500,26000,15000,11000,42.31,19,19,0,Yes,Q3,Jul-24
+MRPL-1557,04-06-2023,04-07-2023,Iron & Steel,JSW Steel,Bhopal,Amit Sharma,Insulation Brick,Shaped,8,1900,1200,15200,9600,5600,36.84,29,30,1,No,Q2,Jun-23
+MRPL-1558,02-02-2023,11-03-2023,Cement,Shree Cement,Ahmedabad,Sunita Rao,Mortar,Unshaped,89,1600,950,142400,84550,57850,40.62,16,37,21,No,Q1,Feb-23
+MRPL-1559,26-04-2024,08-06-2024,Glass,AGI Glaspac,Pune,Rajesh Kumar,High Alumina Brick,Shaped,51,4200,2800,214200,142800,71400,33.33,20,43,23,No,Q2,Apr-24
+MRPL-1560,29-03-2024,14-04-2024,Petrochemical,BPCL,Delhi,Priya Singh,Low Cement Castable,Unshaped,68,3800,2300,258400,156400,102000,39.47,15,16,1,No,Q1,Mar-24
+MRPL-1561,28-11-2024,22-12-2024,Cement,ACC,Nagpur,Priya Singh,Chrome Magnesia Brick,Shaped,115,6200,4100,713000,471500,241500,33.87,24,24,0,Yes,Q4,Nov-24
+MRPL-1562,17-09-2023,01-11-2023,Non-Ferrous,Sterlite,Export-Africa,Vikram Patel,Insulation Brick,Shaped,128,1900,1200,243200,153600,89600,36.84,23,45,22,No,Q3,Sep-23
+MRPL-1563,20-03-2024,03-04-2024,Cement,UltraTech Cement,Chennai,Amit Sharma,Insulation Brick,Shaped,88,1900,1200,167200,105600,61600,36.84,14,14,0,Yes,Q1,Mar-24
+MRPL-1564,13-02-2023,31-03-2023,Glass,Saint Gobain,Vizag,Rajesh Kumar,Magnesia Brick,Shaped,153,5500,3600,841500,550800,290700,34.55,29,46,17,No,Q1,Feb-23
+MRPL-1565,03-12-2024,20-01-2025,Power,NPCIL,Chennai,Priya Singh,Low Cement Castable,Unshaped,224,3800,2300,851200,515200,336000,39.47,24,48,24,No,Q4,Dec-24
+MRPL-1566,20-04-2023,21-05-2023,Fertilizer,IFFCO,Ahmedabad,Sunita Rao,High Alumina Brick,Shaped,37,4200,2800,155400,103600,51800,33.33,29,31,2,No,Q2,Apr-23
+MRPL-1567,22-01-2024,12-02-2024,Iron & Steel,Tata Steel,Surat,Rajesh Kumar,Mortar,Unshaped,96,1600,950,153600,91200,62400,40.62,18,21,3,No,Q1,Jan-24
+MRPL-1568,14-12-2024,16-01-2025,Ceramic,Orient Bell,Bhopal,Amit Sharma,Refractory Coating,Unshaped,179,2100,1200,375900,214800,161100,42.86,20,33,13,No,Q4,Dec-24
+MRPL-1569,05-09-2024,24-09-2024,Iron & Steel,Jindal Steel,Surat,Amit Sharma,Ramming Mass,Unshaped,146,2200,1300,321200,189800,131400,40.91,19,19,0,Yes,Q3,Sep-24
+MRPL-1570,09-04-2024,18-05-2024,Power,Adani Power,Ranchi,Vikram Patel,Ramming Mass,Unshaped,5,2200,1300,11000,6500,4500,40.91,30,39,9,No,Q2,Apr-24
+MRPL-1571,02-09-2023,06-10-2023,Glass,Borosil,Ranchi,Deepak Joshi,Chrome Magnesia Brick,Shaped,87,6200,4100,539400,356700,182700,33.87,16,34,18,No,Q3,Sep-23
+MRPL-1572,07-06-2023,07-07-2023,Fertilizer,Coromandel,Raipur,Deepak Joshi,Gunning Mix,Unshaped,161,2600,1500,418600,241500,177100,42.31,23,30,7,No,Q2,Jun-23
+MRPL-1573,14-02-2023,27-03-2023,Cement,Dalmia Cement,Delhi,Sunita Rao,Low Cement Castable,Unshaped,38,3800,2300,144400,87400,57000,39.47,19,41,22,No,Q1,Feb-23
+MRPL-1574,19-10-2024,28-11-2024,Iron & Steel,JSW Steel,Chennai,Rajesh Kumar,Magnesia Brick,Shaped,143,5500,3600,786500,514800,271700,34.55,29,40,11,No,Q4,Oct-24
+MRPL-1575,14-03-2023,18-04-2023,Non-Ferrous,Hindalco,Ahmedabad,Vikram Patel,Low Cement Castable,Unshaped,8,3800,2300,30400,18400,12000,39.47,20,35,15,No,Q1,Mar-23
+MRPL-1576,01-03-2024,06-04-2024,Power,NTPC,Vizag,Amit Sharma,Magnesia Brick,Shaped,99,5500,3600,544500,356400,188100,34.55,15,36,21,No,Q1,Mar-24
+MRPL-1577,10-08-2023,27-08-2023,Non-Ferrous,Vedanta,Delhi,Rajesh Kumar,Insulation Brick,Shaped,137,1900,1200,260300,164400,95900,36.84,17,17,0,Yes,Q3,Aug-23
+MRPL-1578,06-08-2024,06-09-2024,Non-Ferrous,Sterlite,Chennai,Sunita Rao,Gunning Mix,Unshaped,165,2600,1500,429000,247500,181500,42.31,19,31,12,No,Q3,Aug-24
+MRPL-1579,14-04-2024,03-06-2024,Glass,Piramal Glass,Delhi,Amit Sharma,Refractory Coating,Unshaped,184,2100,1200,386400,220800,165600,42.86,27,50,23,No,Q2,Apr-24
+MRPL-1580,11-06-2023,02-08-2023,Iron & Steel,RINL,Hyderabad,Amit Sharma,Chrome Magnesia Brick,Shaped,141,6200,4100,874200,578100,296100,33.87,28,52,24,No,Q2,Jun-23
+MRPL-1581,10-10-2024,17-11-2024,Cement,Ambuja Cement,Ahmedabad,Priya Singh,Plastic Refractory,Unshaped,158,2900,1750,458200,276500,181700,39.66,24,38,14,No,Q4,Oct-24
+MRPL-1582,18-09-2023,25-10-2023,Iron & Steel,RINL,Vizag,Sanjay Tiwari,Magnesia Brick,Shaped,97,5500,3600,533500,349200,184300,34.55,28,37,9,No,Q3,Sep-23
+MRPL-1583,14-06-2024,07-07-2024,Fertilizer,Chambal Fertilizers,Mumbai,Vikram Patel,Insulation Brick,Shaped,39,1900,1200,74100,46800,27300,36.84,23,23,0,Yes,Q2,Jun-24
+MRPL-1584,07-12-2024,20-01-2025,Iron & Steel,SAIL,Ranchi,Rajesh Kumar,Fireclay Brick,Shaped,103,2800,1800,288400,185400,103000,35.71,30,44,14,No,Q4,Dec-24
+MRPL-1585,22-05-2023,09-07-2023,Power,Tata Power,Mumbai,Amit Sharma,High Alumina Brick,Shaped,72,4200,2800,302400,201600,100800,33.33,25,48,23,No,Q2,May-23
+MRPL-1586,14-02-2024,23-03-2024,Power,Adani Power,Vizag,Rajesh Kumar,Silica Brick,Shaped,150,3100,2000,465000,300000,165000,35.48,20,38,18,No,Q1,Feb-24
+MRPL-1587,07-12-2024,07-01-2025,Iron & Steel,Jindal Steel,Kolkata,Neha Gupta,Mortar,Unshaped,253,1600,950,404800,240350,164450,40.62,17,31,14,No,Q4,Dec-24
+MRPL-1588,27-02-2023,16-04-2023,Non-Ferrous,Sterlite,Vizag,Priya Singh,Insulation Brick,Shaped,90,1900,1200,171000,108000,63000,36.84,25,48,23,No,Q1,Feb-23
+MRPL-1589,08-09-2024,04-10-2024,Petrochemical,BPCL,Ranchi,Deepak Joshi,Low Cement Castable,Unshaped,7,3800,2300,26600,16100,10500,39.47,26,26,0,Yes,Q3,Sep-24
+MRPL-1590,29-05-2024,20-06-2024,Iron & Steel,RINL,Raipur,Rajesh Kumar,Silica Brick,Shaped,183,3100,2000,567300,366000,201300,35.48,21,22,1,No,Q2,May-24
+MRPL-1591,03-04-2023,04-05-2023,Iron & Steel,RINL,Vizag,Vikram Patel,Mortar,Unshaped,61,1600,950,97600,57950,39650,40.62,27,31,4,No,Q2,Apr-23
+MRPL-1592,20-02-2023,21-03-2023,Glass,HNG Glass,Ahmedabad,Priya Singh,Fireclay Brick,Shaped,145,2800,1800,406000,261000,145000,35.71,26,29,3,No,Q1,Feb-23
+MRPL-1593,22-07-2023,01-09-2023,Iron & Steel,Tata Steel,Kolkata,Priya Singh,Refractory Coating,Unshaped,129,2100,1200,270900,154800,116100,42.86,26,41,15,No,Q3,Jul-23
+MRPL-1594,28-11-2023,14-12-2023,Power,Adani Power,Delhi,Deepak Joshi,Fireclay Brick,Shaped,248,2800,1800,694400,446400,248000,35.71,16,16,0,Yes,Q4,Nov-23
+MRPL-1595,31-08-2024,03-10-2024,Non-Ferrous,Hindalco,Ahmedabad,Amit Sharma,Ramming Mass,Unshaped,172,2200,1300,378400,223600,154800,40.91,14,33,19,No,Q3,Aug-24
+MRPL-1596,27-03-2024,20-04-2024,Iron & Steel,Jindal Steel,Ranchi,Sunita Rao,Plastic Refractory,Unshaped,16,2900,1750,46400,28000,18400,39.66,21,24,3,No,Q1,Mar-24
+MRPL-1597,25-02-2023,21-03-2023,Non-Ferrous,BALCO,Ranchi,Rajesh Kumar,Insulation Brick,Shaped,67,1900,1200,127300,80400,46900,36.84,18,24,6,No,Q1,Feb-23
+MRPL-1598,03-08-2023,24-08-2023,Iron & Steel,Jindal Steel,Bhopal,Rajesh Kumar,Silica Brick,Shaped,194,3100,2000,601400,388000,213400,35.48,20,21,1,No,Q3,Aug-23
+MRPL-1599,25-05-2023,15-06-2023,Power,CESC,Bhopal,Deepak Joshi,Plastic Refractory,Unshaped,182,2900,1750,527800,318500,209300,39.66,14,21,7,No,Q2,May-23
